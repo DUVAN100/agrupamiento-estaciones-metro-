@@ -1,0 +1,4 @@
+cluster_kmeans,log_abordajes_laboral,pct_manana,pct_valle,pct_tarde,log_ratio_manana,indice_fin_semana,n_lineas,perfil,n_estaciones
+0,4.346,14.834,26.337,42.834,-1.234,0.357,1.0,Laboral / comercial (destino),11
+1,4.247,39.083,23.765,26.618,0.898,0.453,1.2,Residencial (origen),20
+2,3.558,11.942,48.326,30.66,0.037,3.816,1.0,Ocio / turístico,4

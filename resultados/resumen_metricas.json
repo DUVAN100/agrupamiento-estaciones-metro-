@@ -1,0 +1,8 @@
+{
+  "k_usado": 3,
+  "silueta_kmeans": 0.7072685802350283,
+  "silueta_jerarquico": 0.7072685802350283,
+  "davies_bouldin_kmeans": 0.41187545158092603,
+  "ari_kmeans_vs_perfil_sintetico": 0.819315847450058,
+  "ari_kmeans_vs_jerarquico": 1.0
+}

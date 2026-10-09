@@ -1,0 +1,1891 @@
+estacion_id,estacion,lineas,n_lineas,tipo_dia,hora,abordajes,descensos,perfil_sintetico
+niquia,Niquía,A,1,laboral,5,1154,404,R
+niquia,Niquía,A,1,laboral,6,2670,803,R
+niquia,Niquía,A,1,laboral,7,2790,840,R
+niquia,Niquía,A,1,laboral,8,1262,690,R
+niquia,Niquía,A,1,laboral,9,621,472,R
+niquia,Niquía,A,1,laboral,10,554,504,R
+niquia,Niquía,A,1,laboral,11,591,587,R
+niquia,Niquía,A,1,laboral,12,638,669,R
+niquia,Niquía,A,1,laboral,13,577,650,R
+niquia,Niquía,A,1,laboral,14,637,700,R
+niquia,Niquía,A,1,laboral,15,748,1055,R
+niquia,Niquía,A,1,laboral,16,1037,2137,R
+niquia,Niquía,A,1,laboral,17,1497,2488,R
+niquia,Niquía,A,1,laboral,18,1413,2479,R
+niquia,Niquía,A,1,laboral,19,1040,1850,R
+niquia,Niquía,A,1,laboral,20,970,1512,R
+niquia,Niquía,A,1,laboral,21,646,1054,R
+niquia,Niquía,A,1,laboral,22,343,421,R
+niquia,Niquía,A,1,sabado,5,427,224,R
+niquia,Niquía,A,1,sabado,6,859,465,R
+niquia,Niquía,A,1,sabado,7,1052,627,R
+niquia,Niquía,A,1,sabado,8,746,450,R
+niquia,Niquía,A,1,sabado,9,558,518,R
+niquia,Niquía,A,1,sabado,10,553,504,R
+niquia,Niquía,A,1,sabado,11,688,657,R
+niquia,Niquía,A,1,sabado,12,721,724,R
+niquia,Niquía,A,1,sabado,13,696,721,R
+niquia,Niquía,A,1,sabado,14,673,687,R
+niquia,Niquía,A,1,sabado,15,659,778,R
+niquia,Niquía,A,1,sabado,16,863,989,R
+niquia,Niquía,A,1,sabado,17,1006,1266,R
+niquia,Niquía,A,1,sabado,18,985,1371,R
+niquia,Niquía,A,1,sabado,19,808,976,R
+niquia,Niquía,A,1,sabado,20,561,686,R
+niquia,Niquía,A,1,sabado,21,448,483,R
+niquia,Niquía,A,1,sabado,22,202,220,R
+niquia,Niquía,A,1,domingo,5,329,162,R
+niquia,Niquía,A,1,domingo,6,642,318,R
+niquia,Niquía,A,1,domingo,7,731,383,R
+niquia,Niquía,A,1,domingo,8,470,292,R
+niquia,Niquía,A,1,domingo,9,375,296,R
+niquia,Niquía,A,1,domingo,10,425,359,R
+niquia,Niquía,A,1,domingo,11,456,431,R
+niquia,Niquía,A,1,domingo,12,513,511,R
+niquia,Niquía,A,1,domingo,13,449,443,R
+niquia,Niquía,A,1,domingo,14,422,436,R
+niquia,Niquía,A,1,domingo,15,435,561,R
+niquia,Niquía,A,1,domingo,16,514,684,R
+niquia,Niquía,A,1,domingo,17,720,965,R
+niquia,Niquía,A,1,domingo,18,642,823,R
+niquia,Niquía,A,1,domingo,19,532,675,R
+niquia,Niquía,A,1,domingo,20,453,488,R
+niquia,Niquía,A,1,domingo,21,330,356,R
+niquia,Niquía,A,1,domingo,22,153,175,R
+bello,Bello,A,1,laboral,5,793,235,R
+bello,Bello,A,1,laboral,6,1564,462,R
+bello,Bello,A,1,laboral,7,1505,525,R
+bello,Bello,A,1,laboral,8,802,342,R
+bello,Bello,A,1,laboral,9,423,307,R
+bello,Bello,A,1,laboral,10,321,313,R
+bello,Bello,A,1,laboral,11,376,328,R
+bello,Bello,A,1,laboral,12,391,360,R
+bello,Bello,A,1,laboral,13,428,395,R
+bello,Bello,A,1,laboral,14,356,442,R
+bello,Bello,A,1,laboral,15,395,730,R
+bello,Bello,A,1,laboral,16,639,1387,R
+bello,Bello,A,1,laboral,17,849,1621,R
+bello,Bello,A,1,laboral,18,926,1456,R
+bello,Bello,A,1,laboral,19,727,1016,R
+bello,Bello,A,1,laboral,20,591,897,R
+bello,Bello,A,1,laboral,21,478,551,R
+bello,Bello,A,1,laboral,22,177,251,R
+bello,Bello,A,1,sabado,5,265,154,R
+bello,Bello,A,1,sabado,6,553,270,R
+bello,Bello,A,1,sabado,7,664,366,R
+bello,Bello,A,1,sabado,8,434,303,R
+bello,Bello,A,1,sabado,9,322,289,R
+bello,Bello,A,1,sabado,10,328,351,R
+bello,Bello,A,1,sabado,11,360,391,R
+bello,Bello,A,1,sabado,12,419,452,R
+bello,Bello,A,1,sabado,13,416,405,R
+bello,Bello,A,1,sabado,14,441,359,R
+bello,Bello,A,1,sabado,15,399,402,R
+bello,Bello,A,1,sabado,16,539,629,R
+bello,Bello,A,1,sabado,17,587,909,R
+bello,Bello,A,1,sabado,18,534,791,R
+bello,Bello,A,1,sabado,19,434,599,R
+bello,Bello,A,1,sabado,20,363,474,R
+bello,Bello,A,1,sabado,21,332,358,R
+bello,Bello,A,1,sabado,22,120,147,R
+bello,Bello,A,1,domingo,5,187,102,R
+bello,Bello,A,1,domingo,6,423,225,R
+bello,Bello,A,1,domingo,7,437,237,R
+bello,Bello,A,1,domingo,8,336,214,R
+bello,Bello,A,1,domingo,9,229,172,R
+bello,Bello,A,1,domingo,10,224,243,R
+bello,Bello,A,1,domingo,11,256,266,R
+bello,Bello,A,1,domingo,12,344,274,R
+bello,Bello,A,1,domingo,13,332,271,R
+bello,Bello,A,1,domingo,14,261,267,R
+bello,Bello,A,1,domingo,15,265,332,R
+bello,Bello,A,1,domingo,16,388,386,R
+bello,Bello,A,1,domingo,17,387,556,R
+bello,Bello,A,1,domingo,18,379,520,R
+bello,Bello,A,1,domingo,19,341,408,R
+bello,Bello,A,1,domingo,20,258,348,R
+bello,Bello,A,1,domingo,21,194,233,R
+bello,Bello,A,1,domingo,22,87,111,R
+madera,Madera,A,1,laboral,5,792,267,R
+madera,Madera,A,1,laboral,6,1649,500,R
+madera,Madera,A,1,laboral,7,1761,568,R
+madera,Madera,A,1,laboral,8,998,390,R
+madera,Madera,A,1,laboral,9,422,316,R
+madera,Madera,A,1,laboral,10,369,303,R
+madera,Madera,A,1,laboral,11,412,359,R
+madera,Madera,A,1,laboral,12,522,507,R
+madera,Madera,A,1,laboral,13,479,380,R
+madera,Madera,A,1,laboral,14,370,414,R
+madera,Madera,A,1,laboral,15,459,788,R
+madera,Madera,A,1,laboral,16,613,1517,R
+madera,Madera,A,1,laboral,17,871,1562,R
+madera,Madera,A,1,laboral,18,932,1674,R
+madera,Madera,A,1,laboral,19,819,1354,R
+madera,Madera,A,1,laboral,20,593,1104,R
+madera,Madera,A,1,laboral,21,442,594,R
+madera,Madera,A,1,laboral,22,180,278,R
+madera,Madera,A,1,sabado,5,324,186,R
+madera,Madera,A,1,sabado,6,634,360,R
+madera,Madera,A,1,sabado,7,647,383,R
+madera,Madera,A,1,sabado,8,464,303,R
+madera,Madera,A,1,sabado,9,320,293,R
+madera,Madera,A,1,sabado,10,382,423,R
+madera,Madera,A,1,sabado,11,441,460,R
+madera,Madera,A,1,sabado,12,486,496,R
+madera,Madera,A,1,sabado,13,437,399,R
+madera,Madera,A,1,sabado,14,435,467,R
+madera,Madera,A,1,sabado,15,469,505,R
+madera,Madera,A,1,sabado,16,552,621,R
+madera,Madera,A,1,sabado,17,687,844,R
+madera,Madera,A,1,sabado,18,645,873,R
+madera,Madera,A,1,sabado,19,512,665,R
+madera,Madera,A,1,sabado,20,397,496,R
+madera,Madera,A,1,sabado,21,314,350,R
+madera,Madera,A,1,sabado,22,139,155,R
+madera,Madera,A,1,domingo,5,214,125,R
+madera,Madera,A,1,domingo,6,477,241,R
+madera,Madera,A,1,domingo,7,376,266,R
+madera,Madera,A,1,domingo,8,319,256,R
+madera,Madera,A,1,domingo,9,251,230,R
+madera,Madera,A,1,domingo,10,276,285,R
+madera,Madera,A,1,domingo,11,303,305,R
+madera,Madera,A,1,domingo,12,287,332,R
+madera,Madera,A,1,domingo,13,324,301,R
+madera,Madera,A,1,domingo,14,333,325,R
+madera,Madera,A,1,domingo,15,265,307,R
+madera,Madera,A,1,domingo,16,405,500,R
+madera,Madera,A,1,domingo,17,451,598,R
+madera,Madera,A,1,domingo,18,443,650,R
+madera,Madera,A,1,domingo,19,326,486,R
+madera,Madera,A,1,domingo,20,284,406,R
+madera,Madera,A,1,domingo,21,236,259,R
+madera,Madera,A,1,domingo,22,101,96,R
+acevedo,Acevedo,A;K,2,laboral,5,2539,2660,H
+acevedo,Acevedo,A;K,2,laboral,6,5367,5865,H
+acevedo,Acevedo,A;K,2,laboral,7,6618,5167,H
+acevedo,Acevedo,A;K,2,laboral,8,3797,4061,H
+acevedo,Acevedo,A;K,2,laboral,9,1982,2159,H
+acevedo,Acevedo,A;K,2,laboral,10,1828,2121,H
+acevedo,Acevedo,A;K,2,laboral,11,2257,2150,H
+acevedo,Acevedo,A;K,2,laboral,12,2159,2540,H
+acevedo,Acevedo,A;K,2,laboral,13,2181,2506,H
+acevedo,Acevedo,A;K,2,laboral,14,2288,2273,H
+acevedo,Acevedo,A;K,2,laboral,15,2956,2746,H
+acevedo,Acevedo,A;K,2,laboral,16,4232,4119,H
+acevedo,Acevedo,A;K,2,laboral,17,4481,5023,H
+acevedo,Acevedo,A;K,2,laboral,18,5448,5255,H
+acevedo,Acevedo,A;K,2,laboral,19,4173,4099,H
+acevedo,Acevedo,A;K,2,laboral,20,3314,3306,H
+acevedo,Acevedo,A;K,2,laboral,21,2549,2427,H
+acevedo,Acevedo,A;K,2,laboral,22,852,924,H
+acevedo,Acevedo,A;K,2,sabado,5,1205,1071,H
+acevedo,Acevedo,A;K,2,sabado,6,2754,2213,H
+acevedo,Acevedo,A;K,2,sabado,7,2573,2402,H
+acevedo,Acevedo,A;K,2,sabado,8,1945,1950,H
+acevedo,Acevedo,A;K,2,sabado,9,1803,1838,H
+acevedo,Acevedo,A;K,2,sabado,10,2170,2115,H
+acevedo,Acevedo,A;K,2,sabado,11,2362,2412,H
+acevedo,Acevedo,A;K,2,sabado,12,2776,2229,H
+acevedo,Acevedo,A;K,2,sabado,13,2563,1989,H
+acevedo,Acevedo,A;K,2,sabado,14,2359,2215,H
+acevedo,Acevedo,A;K,2,sabado,15,2412,2222,H
+acevedo,Acevedo,A;K,2,sabado,16,3569,3073,H
+acevedo,Acevedo,A;K,2,sabado,17,3603,3874,H
+acevedo,Acevedo,A;K,2,sabado,18,3000,3561,H
+acevedo,Acevedo,A;K,2,sabado,19,3137,2932,H
+acevedo,Acevedo,A;K,2,sabado,20,2107,2226,H
+acevedo,Acevedo,A;K,2,sabado,21,1569,1623,H
+acevedo,Acevedo,A;K,2,sabado,22,781,665,H
+acevedo,Acevedo,A;K,2,domingo,5,857,864,H
+acevedo,Acevedo,A;K,2,domingo,6,1775,1947,H
+acevedo,Acevedo,A;K,2,domingo,7,2083,1965,H
+acevedo,Acevedo,A;K,2,domingo,8,1438,1388,H
+acevedo,Acevedo,A;K,2,domingo,9,1321,1208,H
+acevedo,Acevedo,A;K,2,domingo,10,1418,1287,H
+acevedo,Acevedo,A;K,2,domingo,11,1670,1570,H
+acevedo,Acevedo,A;K,2,domingo,12,1905,1733,H
+acevedo,Acevedo,A;K,2,domingo,13,1457,1823,H
+acevedo,Acevedo,A;K,2,domingo,14,1420,1808,H
+acevedo,Acevedo,A;K,2,domingo,15,1464,1476,H
+acevedo,Acevedo,A;K,2,domingo,16,1756,2184,H
+acevedo,Acevedo,A;K,2,domingo,17,2478,2407,H
+acevedo,Acevedo,A;K,2,domingo,18,2671,2613,H
+acevedo,Acevedo,A;K,2,domingo,19,1926,1950,H
+acevedo,Acevedo,A;K,2,domingo,20,1586,1348,H
+acevedo,Acevedo,A;K,2,domingo,21,1212,1197,H
+acevedo,Acevedo,A;K,2,domingo,22,559,479,H
+tricentenario,Tricentenario,A,1,laboral,5,688,245,R
+tricentenario,Tricentenario,A,1,laboral,6,1426,530,R
+tricentenario,Tricentenario,A,1,laboral,7,1599,495,R
+tricentenario,Tricentenario,A,1,laboral,8,868,384,R
+tricentenario,Tricentenario,A,1,laboral,9,423,285,R
+tricentenario,Tricentenario,A,1,laboral,10,337,320,R
+tricentenario,Tricentenario,A,1,laboral,11,402,338,R
+tricentenario,Tricentenario,A,1,laboral,12,372,337,R
+tricentenario,Tricentenario,A,1,laboral,13,328,320,R
+tricentenario,Tricentenario,A,1,laboral,14,386,370,R
+tricentenario,Tricentenario,A,1,laboral,15,409,587,R
+tricentenario,Tricentenario,A,1,laboral,16,674,1051,R
+tricentenario,Tricentenario,A,1,laboral,17,842,1792,R
+tricentenario,Tricentenario,A,1,laboral,18,805,1686,R
+tricentenario,Tricentenario,A,1,laboral,19,684,1092,R
+tricentenario,Tricentenario,A,1,laboral,20,657,884,R
+tricentenario,Tricentenario,A,1,laboral,21,492,557,R
+tricentenario,Tricentenario,A,1,laboral,22,192,248,R
+tricentenario,Tricentenario,A,1,sabado,5,277,145,R
+tricentenario,Tricentenario,A,1,sabado,6,576,277,R
+tricentenario,Tricentenario,A,1,sabado,7,581,345,R
+tricentenario,Tricentenario,A,1,sabado,8,457,281,R
+tricentenario,Tricentenario,A,1,sabado,9,291,309,R
+tricentenario,Tricentenario,A,1,sabado,10,349,298,R
+tricentenario,Tricentenario,A,1,sabado,11,497,392,R
+tricentenario,Tricentenario,A,1,sabado,12,434,364,R
+tricentenario,Tricentenario,A,1,sabado,13,458,364,R
+tricentenario,Tricentenario,A,1,sabado,14,378,433,R
+tricentenario,Tricentenario,A,1,sabado,15,405,468,R
+tricentenario,Tricentenario,A,1,sabado,16,486,574,R
+tricentenario,Tricentenario,A,1,sabado,17,590,696,R
+tricentenario,Tricentenario,A,1,sabado,18,540,603,R
+tricentenario,Tricentenario,A,1,sabado,19,475,567,R
+tricentenario,Tricentenario,A,1,sabado,20,352,551,R
+tricentenario,Tricentenario,A,1,sabado,21,289,327,R
+tricentenario,Tricentenario,A,1,sabado,22,136,135,R
+tricentenario,Tricentenario,A,1,domingo,5,196,99,R
+tricentenario,Tricentenario,A,1,domingo,6,335,201,R
+tricentenario,Tricentenario,A,1,domingo,7,403,261,R
+tricentenario,Tricentenario,A,1,domingo,8,293,194,R
+tricentenario,Tricentenario,A,1,domingo,9,220,184,R
+tricentenario,Tricentenario,A,1,domingo,10,257,230,R
+tricentenario,Tricentenario,A,1,domingo,11,287,289,R
+tricentenario,Tricentenario,A,1,domingo,12,311,261,R
+tricentenario,Tricentenario,A,1,domingo,13,268,299,R
+tricentenario,Tricentenario,A,1,domingo,14,279,257,R
+tricentenario,Tricentenario,A,1,domingo,15,305,331,R
+tricentenario,Tricentenario,A,1,domingo,16,313,347,R
+tricentenario,Tricentenario,A,1,domingo,17,386,510,R
+tricentenario,Tricentenario,A,1,domingo,18,443,463,R
+tricentenario,Tricentenario,A,1,domingo,19,313,384,R
+tricentenario,Tricentenario,A,1,domingo,20,292,321,R
+tricentenario,Tricentenario,A,1,domingo,21,183,215,R
+tricentenario,Tricentenario,A,1,domingo,22,97,96,R
+caribe,Caribe,A,1,laboral,5,641,2570,L
+caribe,Caribe,A,1,laboral,6,1168,5084,L
+caribe,Caribe,A,1,laboral,7,1473,4841,L
+caribe,Caribe,A,1,laboral,8,1064,2590,L
+caribe,Caribe,A,1,laboral,9,829,1226,L
+caribe,Caribe,A,1,laboral,10,936,869,L
+caribe,Caribe,A,1,laboral,11,1063,829,L
+caribe,Caribe,A,1,laboral,12,1295,975,L
+caribe,Caribe,A,1,laboral,13,1068,961,L
+caribe,Caribe,A,1,laboral,14,1081,815,L
+caribe,Caribe,A,1,laboral,15,1448,957,L
+caribe,Caribe,A,1,laboral,16,2372,1115,L
+caribe,Caribe,A,1,laboral,17,3267,1758,L
+caribe,Caribe,A,1,laboral,18,3386,1701,L
+caribe,Caribe,A,1,laboral,19,2878,1215,L
+caribe,Caribe,A,1,laboral,20,2365,1060,L
+caribe,Caribe,A,1,laboral,21,1647,623,L
+caribe,Caribe,A,1,laboral,22,697,315,L
+caribe,Caribe,A,1,sabado,5,328,791,L
+caribe,Caribe,A,1,sabado,6,622,1455,L
+caribe,Caribe,A,1,sabado,7,842,1814,L
+caribe,Caribe,A,1,sabado,8,815,1053,L
+caribe,Caribe,A,1,sabado,9,634,746,L
+caribe,Caribe,A,1,sabado,10,785,867,L
+caribe,Caribe,A,1,sabado,11,1002,1017,L
+caribe,Caribe,A,1,sabado,12,1183,1048,L
+caribe,Caribe,A,1,sabado,13,907,846,L
+caribe,Caribe,A,1,sabado,14,955,919,L
+caribe,Caribe,A,1,sabado,15,1189,815,L
+caribe,Caribe,A,1,sabado,16,1223,1099,L
+caribe,Caribe,A,1,sabado,17,1607,1154,L
+caribe,Caribe,A,1,sabado,18,1677,1277,L
+caribe,Caribe,A,1,sabado,19,1316,914,L
+caribe,Caribe,A,1,sabado,20,1173,716,L
+caribe,Caribe,A,1,sabado,21,803,609,L
+caribe,Caribe,A,1,sabado,22,310,267,L
+caribe,Caribe,A,1,domingo,5,187,436,L
+caribe,Caribe,A,1,domingo,6,444,813,L
+caribe,Caribe,A,1,domingo,7,448,1001,L
+caribe,Caribe,A,1,domingo,8,406,674,L
+caribe,Caribe,A,1,domingo,9,415,406,L
+caribe,Caribe,A,1,domingo,10,466,512,L
+caribe,Caribe,A,1,domingo,11,595,658,L
+caribe,Caribe,A,1,domingo,12,581,598,L
+caribe,Caribe,A,1,domingo,13,564,549,L
+caribe,Caribe,A,1,domingo,14,609,508,L
+caribe,Caribe,A,1,domingo,15,552,542,L
+caribe,Caribe,A,1,domingo,16,672,548,L
+caribe,Caribe,A,1,domingo,17,1181,764,L
+caribe,Caribe,A,1,domingo,18,1241,696,L
+caribe,Caribe,A,1,domingo,19,775,659,L
+caribe,Caribe,A,1,domingo,20,549,456,L
+caribe,Caribe,A,1,domingo,21,448,383,L
+caribe,Caribe,A,1,domingo,22,203,140,L
+universidad,Universidad,A,1,laboral,5,399,1327,L
+universidad,Universidad,A,1,laboral,6,728,3159,L
+universidad,Universidad,A,1,laboral,7,870,3109,L
+universidad,Universidad,A,1,laboral,8,686,2036,L
+universidad,Universidad,A,1,laboral,9,483,748,L
+universidad,Universidad,A,1,laboral,10,482,544,L
+universidad,Universidad,A,1,laboral,11,639,566,L
+universidad,Universidad,A,1,laboral,12,631,645,L
+universidad,Universidad,A,1,laboral,13,645,610,L
+universidad,Universidad,A,1,laboral,14,679,597,L
+universidad,Universidad,A,1,laboral,15,828,558,L
+universidad,Universidad,A,1,laboral,16,1396,746,L
+universidad,Universidad,A,1,laboral,17,2312,937,L
+universidad,Universidad,A,1,laboral,18,2150,1011,L
+universidad,Universidad,A,1,laboral,19,1454,862,L
+universidad,Universidad,A,1,laboral,20,1512,612,L
+universidad,Universidad,A,1,laboral,21,1034,450,L
+universidad,Universidad,A,1,laboral,22,432,218,L
+universidad,Universidad,A,1,sabado,5,203,493,L
+universidad,Universidad,A,1,sabado,6,451,938,L
+universidad,Universidad,A,1,sabado,7,410,1069,L
+universidad,Universidad,A,1,sabado,8,401,629,L
+universidad,Universidad,A,1,sabado,9,403,484,L
+universidad,Universidad,A,1,sabado,10,430,503,L
+universidad,Universidad,A,1,sabado,11,561,535,L
+universidad,Universidad,A,1,sabado,12,596,550,L
+universidad,Universidad,A,1,sabado,13,607,630,L
+universidad,Universidad,A,1,sabado,14,631,528,L
+universidad,Universidad,A,1,sabado,15,622,503,L
+universidad,Universidad,A,1,sabado,16,793,660,L
+universidad,Universidad,A,1,sabado,17,1093,873,L
+universidad,Universidad,A,1,sabado,18,1163,633,L
+universidad,Universidad,A,1,sabado,19,782,533,L
+universidad,Universidad,A,1,sabado,20,630,454,L
+universidad,Universidad,A,1,sabado,21,508,399,L
+universidad,Universidad,A,1,sabado,22,216,165,L
+universidad,Universidad,A,1,domingo,5,129,294,L
+universidad,Universidad,A,1,domingo,6,222,633,L
+universidad,Universidad,A,1,domingo,7,262,614,L
+universidad,Universidad,A,1,domingo,8,259,387,L
+universidad,Universidad,A,1,domingo,9,252,263,L
+universidad,Universidad,A,1,domingo,10,316,299,L
+universidad,Universidad,A,1,domingo,11,348,336,L
+universidad,Universidad,A,1,domingo,12,383,335,L
+universidad,Universidad,A,1,domingo,13,364,410,L
+universidad,Universidad,A,1,domingo,14,358,365,L
+universidad,Universidad,A,1,domingo,15,394,349,L
+universidad,Universidad,A,1,domingo,16,441,360,L
+universidad,Universidad,A,1,domingo,17,535,498,L
+universidad,Universidad,A,1,domingo,18,676,466,L
+universidad,Universidad,A,1,domingo,19,543,363,L
+universidad,Universidad,A,1,domingo,20,364,315,L
+universidad,Universidad,A,1,domingo,21,244,218,L
+universidad,Universidad,A,1,domingo,22,129,100,L
+hospital,Hospital,A,1,laboral,5,345,1468,L
+hospital,Hospital,A,1,laboral,6,584,2738,L
+hospital,Hospital,A,1,laboral,7,745,2610,L
+hospital,Hospital,A,1,laboral,8,513,1481,L
+hospital,Hospital,A,1,laboral,9,386,627,L
+hospital,Hospital,A,1,laboral,10,545,448,L
+hospital,Hospital,A,1,laboral,11,634,454,L
+hospital,Hospital,A,1,laboral,12,653,515,L
+hospital,Hospital,A,1,laboral,13,584,472,L
+hospital,Hospital,A,1,laboral,14,657,422,L
+hospital,Hospital,A,1,laboral,15,819,523,L
+hospital,Hospital,A,1,laboral,16,1393,688,L
+hospital,Hospital,A,1,laboral,17,1759,728,L
+hospital,Hospital,A,1,laboral,18,1996,811,L
+hospital,Hospital,A,1,laboral,19,1547,714,L
+hospital,Hospital,A,1,laboral,20,1104,596,L
+hospital,Hospital,A,1,laboral,21,869,436,L
+hospital,Hospital,A,1,laboral,22,392,184,L
+hospital,Hospital,A,1,sabado,5,167,413,L
+hospital,Hospital,A,1,sabado,6,330,740,L
+hospital,Hospital,A,1,sabado,7,435,839,L
+hospital,Hospital,A,1,sabado,8,381,661,L
+hospital,Hospital,A,1,sabado,9,411,381,L
+hospital,Hospital,A,1,sabado,10,488,373,L
+hospital,Hospital,A,1,sabado,11,517,439,L
+hospital,Hospital,A,1,sabado,12,501,539,L
+hospital,Hospital,A,1,sabado,13,518,516,L
+hospital,Hospital,A,1,sabado,14,507,464,L
+hospital,Hospital,A,1,sabado,15,538,519,L
+hospital,Hospital,A,1,sabado,16,709,463,L
+hospital,Hospital,A,1,sabado,17,966,710,L
+hospital,Hospital,A,1,sabado,18,886,742,L
+hospital,Hospital,A,1,sabado,19,694,474,L
+hospital,Hospital,A,1,sabado,20,599,409,L
+hospital,Hospital,A,1,sabado,21,406,288,L
+hospital,Hospital,A,1,sabado,22,194,130,L
+hospital,Hospital,A,1,domingo,5,102,241,L
+hospital,Hospital,A,1,domingo,6,236,473,L
+hospital,Hospital,A,1,domingo,7,286,522,L
+hospital,Hospital,A,1,domingo,8,210,356,L
+hospital,Hospital,A,1,domingo,9,252,209,L
+hospital,Hospital,A,1,domingo,10,261,272,L
+hospital,Hospital,A,1,domingo,11,351,274,L
+hospital,Hospital,A,1,domingo,12,320,280,L
+hospital,Hospital,A,1,domingo,13,314,299,L
+hospital,Hospital,A,1,domingo,14,299,275,L
+hospital,Hospital,A,1,domingo,15,411,260,L
+hospital,Hospital,A,1,domingo,16,464,358,L
+hospital,Hospital,A,1,domingo,17,522,360,L
+hospital,Hospital,A,1,domingo,18,582,370,L
+hospital,Hospital,A,1,domingo,19,414,289,L
+hospital,Hospital,A,1,domingo,20,328,245,L
+hospital,Hospital,A,1,domingo,21,263,182,L
+hospital,Hospital,A,1,domingo,22,111,75,L
+prado,Prado,A,1,laboral,5,719,2594,L
+prado,Prado,A,1,laboral,6,1235,5261,L
+prado,Prado,A,1,laboral,7,1350,5579,L
+prado,Prado,A,1,laboral,8,1143,3019,L
+prado,Prado,A,1,laboral,9,896,1448,L
+prado,Prado,A,1,laboral,10,1007,920,L
+prado,Prado,A,1,laboral,11,1175,985,L
+prado,Prado,A,1,laboral,12,1271,1156,L
+prado,Prado,A,1,laboral,13,1316,944,L
+prado,Prado,A,1,laboral,14,1150,1025,L
+prado,Prado,A,1,laboral,15,1589,1079,L
+prado,Prado,A,1,laboral,16,2678,1404,L
+prado,Prado,A,1,laboral,17,4189,2034,L
+prado,Prado,A,1,laboral,18,4556,1661,L
+prado,Prado,A,1,laboral,19,3172,1658,L
+prado,Prado,A,1,laboral,20,2138,1147,L
+prado,Prado,A,1,laboral,21,1623,773,L
+prado,Prado,A,1,laboral,22,786,394,L
+prado,Prado,A,1,sabado,5,350,890,L
+prado,Prado,A,1,sabado,6,723,1696,L
+prado,Prado,A,1,sabado,7,932,1870,L
+prado,Prado,A,1,sabado,8,824,1257,L
+prado,Prado,A,1,sabado,9,752,923,L
+prado,Prado,A,1,sabado,10,1031,1034,L
+prado,Prado,A,1,sabado,11,1223,1238,L
+prado,Prado,A,1,sabado,12,1324,1176,L
+prado,Prado,A,1,sabado,13,1183,1151,L
+prado,Prado,A,1,sabado,14,1185,911,L
+prado,Prado,A,1,sabado,15,1003,997,L
+prado,Prado,A,1,sabado,16,1544,1319,L
+prado,Prado,A,1,sabado,17,1884,1572,L
+prado,Prado,A,1,sabado,18,1987,1421,L
+prado,Prado,A,1,sabado,19,1487,1187,L
+prado,Prado,A,1,sabado,20,1230,936,L
+prado,Prado,A,1,sabado,21,1038,718,L
+prado,Prado,A,1,sabado,22,399,304,L
+prado,Prado,A,1,domingo,5,216,498,L
+prado,Prado,A,1,domingo,6,460,1005,L
+prado,Prado,A,1,domingo,7,416,972,L
+prado,Prado,A,1,domingo,8,474,718,L
+prado,Prado,A,1,domingo,9,344,490,L
+prado,Prado,A,1,domingo,10,484,592,L
+prado,Prado,A,1,domingo,11,674,635,L
+prado,Prado,A,1,domingo,12,715,654,L
+prado,Prado,A,1,domingo,13,603,635,L
+prado,Prado,A,1,domingo,14,585,593,L
+prado,Prado,A,1,domingo,15,759,615,L
+prado,Prado,A,1,domingo,16,889,659,L
+prado,Prado,A,1,domingo,17,1409,787,L
+prado,Prado,A,1,domingo,18,1148,890,L
+prado,Prado,A,1,domingo,19,938,624,L
+prado,Prado,A,1,domingo,20,828,469,L
+prado,Prado,A,1,domingo,21,527,394,L
+prado,Prado,A,1,domingo,22,218,180,L
+parque_berrio,Parque Berrío,A,1,laboral,5,45,44,T
+parque_berrio,Parque Berrío,A,1,laboral,6,95,84,T
+parque_berrio,Parque Berrío,A,1,laboral,7,123,116,T
+parque_berrio,Parque Berrío,A,1,laboral,8,143,143,T
+parque_berrio,Parque Berrío,A,1,laboral,9,151,169,T
+parque_berrio,Parque Berrío,A,1,laboral,10,221,221,T
+parque_berrio,Parque Berrío,A,1,laboral,11,247,267,T
+parque_berrio,Parque Berrío,A,1,laboral,12,257,260,T
+parque_berrio,Parque Berrío,A,1,laboral,13,274,271,T
+parque_berrio,Parque Berrío,A,1,laboral,14,259,237,T
+parque_berrio,Parque Berrío,A,1,laboral,15,256,201,T
+parque_berrio,Parque Berrío,A,1,laboral,16,283,286,T
+parque_berrio,Parque Berrío,A,1,laboral,17,292,283,T
+parque_berrio,Parque Berrío,A,1,laboral,18,281,239,T
+parque_berrio,Parque Berrío,A,1,laboral,19,218,189,T
+parque_berrio,Parque Berrío,A,1,laboral,20,154,140,T
+parque_berrio,Parque Berrío,A,1,laboral,21,105,104,T
+parque_berrio,Parque Berrío,A,1,laboral,22,49,45,T
+parque_berrio,Parque Berrío,A,1,sabado,5,148,165,T
+parque_berrio,Parque Berrío,A,1,sabado,6,323,294,T
+parque_berrio,Parque Berrío,A,1,sabado,7,402,417,T
+parque_berrio,Parque Berrío,A,1,sabado,8,416,428,T
+parque_berrio,Parque Berrío,A,1,sabado,9,487,436,T
+parque_berrio,Parque Berrío,A,1,sabado,10,621,639,T
+parque_berrio,Parque Berrío,A,1,sabado,11,587,734,T
+parque_berrio,Parque Berrío,A,1,sabado,12,713,741,T
+parque_berrio,Parque Berrío,A,1,sabado,13,589,660,T
+parque_berrio,Parque Berrío,A,1,sabado,14,635,591,T
+parque_berrio,Parque Berrío,A,1,sabado,15,617,591,T
+parque_berrio,Parque Berrío,A,1,sabado,16,784,753,T
+parque_berrio,Parque Berrío,A,1,sabado,17,925,779,T
+parque_berrio,Parque Berrío,A,1,sabado,18,801,816,T
+parque_berrio,Parque Berrío,A,1,sabado,19,584,551,T
+parque_berrio,Parque Berrío,A,1,sabado,20,494,467,T
+parque_berrio,Parque Berrío,A,1,sabado,21,322,338,T
+parque_berrio,Parque Berrío,A,1,sabado,22,151,184,T
+parque_berrio,Parque Berrío,A,1,domingo,5,178,195,T
+parque_berrio,Parque Berrío,A,1,domingo,6,453,354,T
+parque_berrio,Parque Berrío,A,1,domingo,7,518,476,T
+parque_berrio,Parque Berrío,A,1,domingo,8,548,540,T
+parque_berrio,Parque Berrío,A,1,domingo,9,622,684,T
+parque_berrio,Parque Berrío,A,1,domingo,10,800,967,T
+parque_berrio,Parque Berrío,A,1,domingo,11,897,866,T
+parque_berrio,Parque Berrío,A,1,domingo,12,1079,1077,T
+parque_berrio,Parque Berrío,A,1,domingo,13,885,936,T
+parque_berrio,Parque Berrío,A,1,domingo,14,906,818,T
+parque_berrio,Parque Berrío,A,1,domingo,15,767,836,T
+parque_berrio,Parque Berrío,A,1,domingo,16,938,947,T
+parque_berrio,Parque Berrío,A,1,domingo,17,1009,1109,T
+parque_berrio,Parque Berrío,A,1,domingo,18,1069,997,T
+parque_berrio,Parque Berrío,A,1,domingo,19,893,711,T
+parque_berrio,Parque Berrío,A,1,domingo,20,617,549,T
+parque_berrio,Parque Berrío,A,1,domingo,21,432,462,T
+parque_berrio,Parque Berrío,A,1,domingo,22,181,193,T
+san_antonio,San Antonio,A;B,2,laboral,5,3378,3611,H
+san_antonio,San Antonio,A;B,2,laboral,6,7216,7627,H
+san_antonio,San Antonio,A;B,2,laboral,7,7202,6946,H
+san_antonio,San Antonio,A;B,2,laboral,8,4145,3983,H
+san_antonio,San Antonio,A;B,2,laboral,9,2799,2489,H
+san_antonio,San Antonio,A;B,2,laboral,10,2723,2419,H
+san_antonio,San Antonio,A;B,2,laboral,11,2834,2742,H
+san_antonio,San Antonio,A;B,2,laboral,12,3114,3154,H
+san_antonio,San Antonio,A;B,2,laboral,13,3076,2706,H
+san_antonio,San Antonio,A;B,2,laboral,14,2957,2778,H
+san_antonio,San Antonio,A;B,2,laboral,15,3426,3014,H
+san_antonio,San Antonio,A;B,2,laboral,16,5118,5058,H
+san_antonio,San Antonio,A;B,2,laboral,17,6792,6517,H
+san_antonio,San Antonio,A;B,2,laboral,18,5895,6062,H
+san_antonio,San Antonio,A;B,2,laboral,19,5312,4929,H
+san_antonio,San Antonio,A;B,2,laboral,20,3482,3824,H
+san_antonio,San Antonio,A;B,2,laboral,21,2545,2654,H
+san_antonio,San Antonio,A;B,2,laboral,22,1351,1402,H
+san_antonio,San Antonio,A;B,2,sabado,5,1462,1557,H
+san_antonio,San Antonio,A;B,2,sabado,6,2904,3075,H
+san_antonio,San Antonio,A;B,2,sabado,7,2795,3205,H
+san_antonio,San Antonio,A;B,2,sabado,8,2341,2729,H
+san_antonio,San Antonio,A;B,2,sabado,9,2103,2332,H
+san_antonio,San Antonio,A;B,2,sabado,10,2324,2492,H
+san_antonio,San Antonio,A;B,2,sabado,11,3190,3085,H
+san_antonio,San Antonio,A;B,2,sabado,12,2982,3088,H
+san_antonio,San Antonio,A;B,2,sabado,13,3211,2769,H
+san_antonio,San Antonio,A;B,2,sabado,14,2683,2823,H
+san_antonio,San Antonio,A;B,2,sabado,15,2802,2818,H
+san_antonio,San Antonio,A;B,2,sabado,16,3561,3586,H
+san_antonio,San Antonio,A;B,2,sabado,17,4435,4988,H
+san_antonio,San Antonio,A;B,2,sabado,18,4892,3504,H
+san_antonio,San Antonio,A;B,2,sabado,19,2774,2981,H
+san_antonio,San Antonio,A;B,2,sabado,20,2254,2406,H
+san_antonio,San Antonio,A;B,2,sabado,21,1803,1829,H
+san_antonio,San Antonio,A;B,2,sabado,22,852,834,H
+san_antonio,San Antonio,A;B,2,domingo,5,933,1127,H
+san_antonio,San Antonio,A;B,2,domingo,6,1955,1984,H
+san_antonio,San Antonio,A;B,2,domingo,7,2204,2483,H
+san_antonio,San Antonio,A;B,2,domingo,8,2187,1795,H
+san_antonio,San Antonio,A;B,2,domingo,9,1772,1374,H
+san_antonio,San Antonio,A;B,2,domingo,10,1697,1710,H
+san_antonio,San Antonio,A;B,2,domingo,11,1982,2101,H
+san_antonio,San Antonio,A;B,2,domingo,12,1969,2267,H
+san_antonio,San Antonio,A;B,2,domingo,13,1776,2046,H
+san_antonio,San Antonio,A;B,2,domingo,14,1889,2155,H
+san_antonio,San Antonio,A;B,2,domingo,15,1842,2163,H
+san_antonio,San Antonio,A;B,2,domingo,16,2544,2509,H
+san_antonio,San Antonio,A;B,2,domingo,17,2786,3362,H
+san_antonio,San Antonio,A;B,2,domingo,18,2865,3555,H
+san_antonio,San Antonio,A;B,2,domingo,19,2414,2790,H
+san_antonio,San Antonio,A;B,2,domingo,20,1946,1713,H
+san_antonio,San Antonio,A;B,2,domingo,21,1391,1249,H
+san_antonio,San Antonio,A;B,2,domingo,22,547,685,H
+alpujarra,Alpujarra,A,1,laboral,5,310,1187,L
+alpujarra,Alpujarra,A,1,laboral,6,666,2910,L
+alpujarra,Alpujarra,A,1,laboral,7,786,2669,L
+alpujarra,Alpujarra,A,1,laboral,8,547,1653,L
+alpujarra,Alpujarra,A,1,laboral,9,417,663,L
+alpujarra,Alpujarra,A,1,laboral,10,463,498,L
+alpujarra,Alpujarra,A,1,laboral,11,536,473,L
+alpujarra,Alpujarra,A,1,laboral,12,560,559,L
+alpujarra,Alpujarra,A,1,laboral,13,705,545,L
+alpujarra,Alpujarra,A,1,laboral,14,620,457,L
+alpujarra,Alpujarra,A,1,laboral,15,902,539,L
+alpujarra,Alpujarra,A,1,laboral,16,1354,716,L
+alpujarra,Alpujarra,A,1,laboral,17,1942,826,L
+alpujarra,Alpujarra,A,1,laboral,18,1876,769,L
+alpujarra,Alpujarra,A,1,laboral,19,1279,616,L
+alpujarra,Alpujarra,A,1,laboral,20,1127,566,L
+alpujarra,Alpujarra,A,1,laboral,21,775,424,L
+alpujarra,Alpujarra,A,1,laboral,22,338,177,L
+alpujarra,Alpujarra,A,1,sabado,5,184,391,L
+alpujarra,Alpujarra,A,1,sabado,6,387,791,L
+alpujarra,Alpujarra,A,1,sabado,7,457,952,L
+alpujarra,Alpujarra,A,1,sabado,8,430,603,L
+alpujarra,Alpujarra,A,1,sabado,9,421,493,L
+alpujarra,Alpujarra,A,1,sabado,10,423,436,L
+alpujarra,Alpujarra,A,1,sabado,11,614,566,L
+alpujarra,Alpujarra,A,1,sabado,12,545,557,L
+alpujarra,Alpujarra,A,1,sabado,13,594,563,L
+alpujarra,Alpujarra,A,1,sabado,14,514,464,L
+alpujarra,Alpujarra,A,1,sabado,15,543,482,L
+alpujarra,Alpujarra,A,1,sabado,16,660,584,L
+alpujarra,Alpujarra,A,1,sabado,17,959,661,L
+alpujarra,Alpujarra,A,1,sabado,18,837,710,L
+alpujarra,Alpujarra,A,1,sabado,19,810,561,L
+alpujarra,Alpujarra,A,1,sabado,20,678,454,L
+alpujarra,Alpujarra,A,1,sabado,21,404,355,L
+alpujarra,Alpujarra,A,1,sabado,22,200,161,L
+alpujarra,Alpujarra,A,1,domingo,5,104,245,L
+alpujarra,Alpujarra,A,1,domingo,6,222,469,L
+alpujarra,Alpujarra,A,1,domingo,7,241,506,L
+alpujarra,Alpujarra,A,1,domingo,8,222,298,L
+alpujarra,Alpujarra,A,1,domingo,9,212,255,L
+alpujarra,Alpujarra,A,1,domingo,10,305,283,L
+alpujarra,Alpujarra,A,1,domingo,11,322,269,L
+alpujarra,Alpujarra,A,1,domingo,12,326,306,L
+alpujarra,Alpujarra,A,1,domingo,13,351,281,L
+alpujarra,Alpujarra,A,1,domingo,14,251,260,L
+alpujarra,Alpujarra,A,1,domingo,15,279,283,L
+alpujarra,Alpujarra,A,1,domingo,16,474,291,L
+alpujarra,Alpujarra,A,1,domingo,17,570,433,L
+alpujarra,Alpujarra,A,1,domingo,18,564,417,L
+alpujarra,Alpujarra,A,1,domingo,19,393,305,L
+alpujarra,Alpujarra,A,1,domingo,20,350,207,L
+alpujarra,Alpujarra,A,1,domingo,21,295,169,L
+alpujarra,Alpujarra,A,1,domingo,22,121,92,L
+exposiciones,Exposiciones,A,1,laboral,5,448,1540,L
+exposiciones,Exposiciones,A,1,laboral,6,843,3470,L
+exposiciones,Exposiciones,A,1,laboral,7,1085,3806,L
+exposiciones,Exposiciones,A,1,laboral,8,699,1718,L
+exposiciones,Exposiciones,A,1,laboral,9,607,788,L
+exposiciones,Exposiciones,A,1,laboral,10,685,672,L
+exposiciones,Exposiciones,A,1,laboral,11,880,695,L
+exposiciones,Exposiciones,A,1,laboral,12,792,741,L
+exposiciones,Exposiciones,A,1,laboral,13,811,799,L
+exposiciones,Exposiciones,A,1,laboral,14,720,665,L
+exposiciones,Exposiciones,A,1,laboral,15,1238,727,L
+exposiciones,Exposiciones,A,1,laboral,16,1773,1138,L
+exposiciones,Exposiciones,A,1,laboral,17,2524,1136,L
+exposiciones,Exposiciones,A,1,laboral,18,2655,1056,L
+exposiciones,Exposiciones,A,1,laboral,19,1868,938,L
+exposiciones,Exposiciones,A,1,laboral,20,1715,780,L
+exposiciones,Exposiciones,A,1,laboral,21,1296,530,L
+exposiciones,Exposiciones,A,1,laboral,22,555,232,L
+exposiciones,Exposiciones,A,1,sabado,5,296,595,L
+exposiciones,Exposiciones,A,1,sabado,6,508,1081,L
+exposiciones,Exposiciones,A,1,sabado,7,549,1235,L
+exposiciones,Exposiciones,A,1,sabado,8,547,740,L
+exposiciones,Exposiciones,A,1,sabado,9,505,639,L
+exposiciones,Exposiciones,A,1,sabado,10,602,671,L
+exposiciones,Exposiciones,A,1,sabado,11,752,756,L
+exposiciones,Exposiciones,A,1,sabado,12,686,655,L
+exposiciones,Exposiciones,A,1,sabado,13,752,756,L
+exposiciones,Exposiciones,A,1,sabado,14,798,665,L
+exposiciones,Exposiciones,A,1,sabado,15,781,569,L
+exposiciones,Exposiciones,A,1,sabado,16,991,787,L
+exposiciones,Exposiciones,A,1,sabado,17,1250,974,L
+exposiciones,Exposiciones,A,1,sabado,18,1228,942,L
+exposiciones,Exposiciones,A,1,sabado,19,983,723,L
+exposiciones,Exposiciones,A,1,sabado,20,780,594,L
+exposiciones,Exposiciones,A,1,sabado,21,620,473,L
+exposiciones,Exposiciones,A,1,sabado,22,227,211,L
+exposiciones,Exposiciones,A,1,domingo,5,114,289,L
+exposiciones,Exposiciones,A,1,domingo,6,282,714,L
+exposiciones,Exposiciones,A,1,domingo,7,335,681,L
+exposiciones,Exposiciones,A,1,domingo,8,258,465,L
+exposiciones,Exposiciones,A,1,domingo,9,299,322,L
+exposiciones,Exposiciones,A,1,domingo,10,396,338,L
+exposiciones,Exposiciones,A,1,domingo,11,384,432,L
+exposiciones,Exposiciones,A,1,domingo,12,456,440,L
+exposiciones,Exposiciones,A,1,domingo,13,396,435,L
+exposiciones,Exposiciones,A,1,domingo,14,379,375,L
+exposiciones,Exposiciones,A,1,domingo,15,494,394,L
+exposiciones,Exposiciones,A,1,domingo,16,570,445,L
+exposiciones,Exposiciones,A,1,domingo,17,788,660,L
+exposiciones,Exposiciones,A,1,domingo,18,637,464,L
+exposiciones,Exposiciones,A,1,domingo,19,679,460,L
+exposiciones,Exposiciones,A,1,domingo,20,492,378,L
+exposiciones,Exposiciones,A,1,domingo,21,331,229,L
+exposiciones,Exposiciones,A,1,domingo,22,159,133,L
+industriales,Industriales,A,1,laboral,5,530,1795,L
+industriales,Industriales,A,1,laboral,6,987,2942,L
+industriales,Industriales,A,1,laboral,7,1064,3452,L
+industriales,Industriales,A,1,laboral,8,772,2322,L
+industriales,Industriales,A,1,laboral,9,645,866,L
+industriales,Industriales,A,1,laboral,10,779,685,L
+industriales,Industriales,A,1,laboral,11,819,648,L
+industriales,Industriales,A,1,laboral,12,796,856,L
+industriales,Industriales,A,1,laboral,13,894,724,L
+industriales,Industriales,A,1,laboral,14,928,697,L
+industriales,Industriales,A,1,laboral,15,1261,884,L
+industriales,Industriales,A,1,laboral,16,2127,1100,L
+industriales,Industriales,A,1,laboral,17,2747,1199,L
+industriales,Industriales,A,1,laboral,18,2626,1142,L
+industriales,Industriales,A,1,laboral,19,2100,940,L
+industriales,Industriales,A,1,laboral,20,1571,834,L
+industriales,Industriales,A,1,laboral,21,1300,583,L
+industriales,Industriales,A,1,laboral,22,573,260,L
+industriales,Industriales,A,1,sabado,5,294,590,L
+industriales,Industriales,A,1,sabado,6,522,989,L
+industriales,Industriales,A,1,sabado,7,744,1255,L
+industriales,Industriales,A,1,sabado,8,544,850,L
+industriales,Industriales,A,1,sabado,9,625,722,L
+industriales,Industriales,A,1,sabado,10,672,575,L
+industriales,Industriales,A,1,sabado,11,826,721,L
+industriales,Industriales,A,1,sabado,12,764,902,L
+industriales,Industriales,A,1,sabado,13,726,780,L
+industriales,Industriales,A,1,sabado,14,756,717,L
+industriales,Industriales,A,1,sabado,15,865,695,L
+industriales,Industriales,A,1,sabado,16,1090,861,L
+industriales,Industriales,A,1,sabado,17,1249,1071,L
+industriales,Industriales,A,1,sabado,18,1210,898,L
+industriales,Industriales,A,1,sabado,19,952,814,L
+industriales,Industriales,A,1,sabado,20,742,553,L
+industriales,Industriales,A,1,sabado,21,618,459,L
+industriales,Industriales,A,1,sabado,22,304,207,L
+industriales,Industriales,A,1,domingo,5,145,404,L
+industriales,Industriales,A,1,domingo,6,307,699,L
+industriales,Industriales,A,1,domingo,7,343,747,L
+industriales,Industriales,A,1,domingo,8,289,525,L
+industriales,Industriales,A,1,domingo,9,307,383,L
+industriales,Industriales,A,1,domingo,10,349,321,L
+industriales,Industriales,A,1,domingo,11,458,380,L
+industriales,Industriales,A,1,domingo,12,430,467,L
+industriales,Industriales,A,1,domingo,13,480,415,L
+industriales,Industriales,A,1,domingo,14,387,444,L
+industriales,Industriales,A,1,domingo,15,446,392,L
+industriales,Industriales,A,1,domingo,16,603,419,L
+industriales,Industriales,A,1,domingo,17,898,530,L
+industriales,Industriales,A,1,domingo,18,808,449,L
+industriales,Industriales,A,1,domingo,19,612,434,L
+industriales,Industriales,A,1,domingo,20,519,355,L
+industriales,Industriales,A,1,domingo,21,302,252,L
+industriales,Industriales,A,1,domingo,22,161,129,L
+poblado,Poblado,A,1,laboral,5,33,33,T
+poblado,Poblado,A,1,laboral,6,57,58,T
+poblado,Poblado,A,1,laboral,7,95,84,T
+poblado,Poblado,A,1,laboral,8,107,107,T
+poblado,Poblado,A,1,laboral,9,130,131,T
+poblado,Poblado,A,1,laboral,10,175,143,T
+poblado,Poblado,A,1,laboral,11,173,180,T
+poblado,Poblado,A,1,laboral,12,237,192,T
+poblado,Poblado,A,1,laboral,13,178,187,T
+poblado,Poblado,A,1,laboral,14,184,155,T
+poblado,Poblado,A,1,laboral,15,146,159,T
+poblado,Poblado,A,1,laboral,16,178,181,T
+poblado,Poblado,A,1,laboral,17,250,236,T
+poblado,Poblado,A,1,laboral,18,201,219,T
+poblado,Poblado,A,1,laboral,19,165,152,T
+poblado,Poblado,A,1,laboral,20,117,111,T
+poblado,Poblado,A,1,laboral,21,77,79,T
+poblado,Poblado,A,1,laboral,22,39,32,T
+poblado,Poblado,A,1,sabado,5,105,113,T
+poblado,Poblado,A,1,sabado,6,215,242,T
+poblado,Poblado,A,1,sabado,7,280,278,T
+poblado,Poblado,A,1,sabado,8,278,302,T
+poblado,Poblado,A,1,sabado,9,359,311,T
+poblado,Poblado,A,1,sabado,10,471,369,T
+poblado,Poblado,A,1,sabado,11,460,563,T
+poblado,Poblado,A,1,sabado,12,554,511,T
+poblado,Poblado,A,1,sabado,13,519,509,T
+poblado,Poblado,A,1,sabado,14,489,426,T
+poblado,Poblado,A,1,sabado,15,464,415,T
+poblado,Poblado,A,1,sabado,16,483,535,T
+poblado,Poblado,A,1,sabado,17,572,597,T
+poblado,Poblado,A,1,sabado,18,594,611,T
+poblado,Poblado,A,1,sabado,19,497,474,T
+poblado,Poblado,A,1,sabado,20,299,367,T
+poblado,Poblado,A,1,sabado,21,259,257,T
+poblado,Poblado,A,1,sabado,22,125,129,T
+poblado,Poblado,A,1,domingo,5,138,130,T
+poblado,Poblado,A,1,domingo,6,301,311,T
+poblado,Poblado,A,1,domingo,7,422,362,T
+poblado,Poblado,A,1,domingo,8,442,418,T
+poblado,Poblado,A,1,domingo,9,414,465,T
+poblado,Poblado,A,1,domingo,10,567,618,T
+poblado,Poblado,A,1,domingo,11,762,751,T
+poblado,Poblado,A,1,domingo,12,753,734,T
+poblado,Poblado,A,1,domingo,13,701,756,T
+poblado,Poblado,A,1,domingo,14,612,516,T
+poblado,Poblado,A,1,domingo,15,589,690,T
+poblado,Poblado,A,1,domingo,16,726,731,T
+poblado,Poblado,A,1,domingo,17,811,902,T
+poblado,Poblado,A,1,domingo,18,773,703,T
+poblado,Poblado,A,1,domingo,19,602,560,T
+poblado,Poblado,A,1,domingo,20,443,473,T
+poblado,Poblado,A,1,domingo,21,344,330,T
+poblado,Poblado,A,1,domingo,22,188,152,T
+aguacatala,Aguacatala,A,1,laboral,5,613,2628,L
+aguacatala,Aguacatala,A,1,laboral,6,1534,4735,L
+aguacatala,Aguacatala,A,1,laboral,7,1560,5665,L
+aguacatala,Aguacatala,A,1,laboral,8,1112,2655,L
+aguacatala,Aguacatala,A,1,laboral,9,801,1396,L
+aguacatala,Aguacatala,A,1,laboral,10,1044,969,L
+aguacatala,Aguacatala,A,1,laboral,11,959,1261,L
+aguacatala,Aguacatala,A,1,laboral,12,1298,1006,L
+aguacatala,Aguacatala,A,1,laboral,13,1069,1046,L
+aguacatala,Aguacatala,A,1,laboral,14,1246,1133,L
+aguacatala,Aguacatala,A,1,laboral,15,1707,1162,L
+aguacatala,Aguacatala,A,1,laboral,16,3169,1327,L
+aguacatala,Aguacatala,A,1,laboral,17,3984,1801,L
+aguacatala,Aguacatala,A,1,laboral,18,3852,1724,L
+aguacatala,Aguacatala,A,1,laboral,19,3113,1420,L
+aguacatala,Aguacatala,A,1,laboral,20,2855,1091,L
+aguacatala,Aguacatala,A,1,laboral,21,1918,840,L
+aguacatala,Aguacatala,A,1,laboral,22,805,340,L
+aguacatala,Aguacatala,A,1,sabado,5,381,814,L
+aguacatala,Aguacatala,A,1,sabado,6,786,1504,L
+aguacatala,Aguacatala,A,1,sabado,7,875,1643,L
+aguacatala,Aguacatala,A,1,sabado,8,684,1189,L
+aguacatala,Aguacatala,A,1,sabado,9,844,796,L
+aguacatala,Aguacatala,A,1,sabado,10,968,961,L
+aguacatala,Aguacatala,A,1,sabado,11,1039,1033,L
+aguacatala,Aguacatala,A,1,sabado,12,1139,1370,L
+aguacatala,Aguacatala,A,1,sabado,13,993,943,L
+aguacatala,Aguacatala,A,1,sabado,14,966,1003,L
+aguacatala,Aguacatala,A,1,sabado,15,1103,906,L
+aguacatala,Aguacatala,A,1,sabado,16,1725,1161,L
+aguacatala,Aguacatala,A,1,sabado,17,1895,1465,L
+aguacatala,Aguacatala,A,1,sabado,18,2045,1145,L
+aguacatala,Aguacatala,A,1,sabado,19,1472,1113,L
+aguacatala,Aguacatala,A,1,sabado,20,1255,1035,L
+aguacatala,Aguacatala,A,1,sabado,21,872,621,L
+aguacatala,Aguacatala,A,1,sabado,22,429,299,L
+aguacatala,Aguacatala,A,1,domingo,5,238,460,L
+aguacatala,Aguacatala,A,1,domingo,6,437,954,L
+aguacatala,Aguacatala,A,1,domingo,7,496,1077,L
+aguacatala,Aguacatala,A,1,domingo,8,378,726,L
+aguacatala,Aguacatala,A,1,domingo,9,479,509,L
+aguacatala,Aguacatala,A,1,domingo,10,544,541,L
+aguacatala,Aguacatala,A,1,domingo,11,592,615,L
+aguacatala,Aguacatala,A,1,domingo,12,687,589,L
+aguacatala,Aguacatala,A,1,domingo,13,624,607,L
+aguacatala,Aguacatala,A,1,domingo,14,586,619,L
+aguacatala,Aguacatala,A,1,domingo,15,705,518,L
+aguacatala,Aguacatala,A,1,domingo,16,820,694,L
+aguacatala,Aguacatala,A,1,domingo,17,1265,791,L
+aguacatala,Aguacatala,A,1,domingo,18,1014,812,L
+aguacatala,Aguacatala,A,1,domingo,19,850,618,L
+aguacatala,Aguacatala,A,1,domingo,20,837,583,L
+aguacatala,Aguacatala,A,1,domingo,21,563,391,L
+aguacatala,Aguacatala,A,1,domingo,22,235,154,L
+ayura,Ayurá,A,1,laboral,5,561,2082,L
+ayura,Ayurá,A,1,laboral,6,1146,4174,L
+ayura,Ayurá,A,1,laboral,7,1352,4592,L
+ayura,Ayurá,A,1,laboral,8,919,2346,L
+ayura,Ayurá,A,1,laboral,9,818,1190,L
+ayura,Ayurá,A,1,laboral,10,797,754,L
+ayura,Ayurá,A,1,laboral,11,936,1104,L
+ayura,Ayurá,A,1,laboral,12,989,896,L
+ayura,Ayurá,A,1,laboral,13,974,897,L
+ayura,Ayurá,A,1,laboral,14,1146,748,L
+ayura,Ayurá,A,1,laboral,15,1533,1024,L
+ayura,Ayurá,A,1,laboral,16,2799,1298,L
+ayura,Ayurá,A,1,laboral,17,4099,1533,L
+ayura,Ayurá,A,1,laboral,18,3172,1309,L
+ayura,Ayurá,A,1,laboral,19,2758,1195,L
+ayura,Ayurá,A,1,laboral,20,1986,892,L
+ayura,Ayurá,A,1,laboral,21,1460,804,L
+ayura,Ayurá,A,1,laboral,22,668,349,L
+ayura,Ayurá,A,1,sabado,5,321,694,L
+ayura,Ayurá,A,1,sabado,6,528,1439,L
+ayura,Ayurá,A,1,sabado,7,697,1608,L
+ayura,Ayurá,A,1,sabado,8,696,1024,L
+ayura,Ayurá,A,1,sabado,9,727,720,L
+ayura,Ayurá,A,1,sabado,10,869,793,L
+ayura,Ayurá,A,1,sabado,11,820,778,L
+ayura,Ayurá,A,1,sabado,12,1010,996,L
+ayura,Ayurá,A,1,sabado,13,1028,917,L
+ayura,Ayurá,A,1,sabado,14,777,837,L
+ayura,Ayurá,A,1,sabado,15,973,906,L
+ayura,Ayurá,A,1,sabado,16,1352,874,L
+ayura,Ayurá,A,1,sabado,17,1647,1046,L
+ayura,Ayurá,A,1,sabado,18,1418,1193,L
+ayura,Ayurá,A,1,sabado,19,1267,923,L
+ayura,Ayurá,A,1,sabado,20,1014,762,L
+ayura,Ayurá,A,1,sabado,21,737,525,L
+ayura,Ayurá,A,1,sabado,22,323,262,L
+ayura,Ayurá,A,1,domingo,5,200,422,L
+ayura,Ayurá,A,1,domingo,6,389,857,L
+ayura,Ayurá,A,1,domingo,7,431,887,L
+ayura,Ayurá,A,1,domingo,8,324,689,L
+ayura,Ayurá,A,1,domingo,9,409,404,L
+ayura,Ayurá,A,1,domingo,10,512,438,L
+ayura,Ayurá,A,1,domingo,11,572,529,L
+ayura,Ayurá,A,1,domingo,12,536,600,L
+ayura,Ayurá,A,1,domingo,13,583,474,L
+ayura,Ayurá,A,1,domingo,14,554,438,L
+ayura,Ayurá,A,1,domingo,15,644,416,L
+ayura,Ayurá,A,1,domingo,16,719,598,L
+ayura,Ayurá,A,1,domingo,17,966,654,L
+ayura,Ayurá,A,1,domingo,18,1018,660,L
+ayura,Ayurá,A,1,domingo,19,762,568,L
+ayura,Ayurá,A,1,domingo,20,555,417,L
+ayura,Ayurá,A,1,domingo,21,450,324,L
+ayura,Ayurá,A,1,domingo,22,207,141,L
+envigado,Envigado,A,1,laboral,5,673,199,R
+envigado,Envigado,A,1,laboral,6,1229,382,R
+envigado,Envigado,A,1,laboral,7,1318,421,R
+envigado,Envigado,A,1,laboral,8,828,279,R
+envigado,Envigado,A,1,laboral,9,367,261,R
+envigado,Envigado,A,1,laboral,10,253,312,R
+envigado,Envigado,A,1,laboral,11,330,350,R
+envigado,Envigado,A,1,laboral,12,303,291,R
+envigado,Envigado,A,1,laboral,13,357,346,R
+envigado,Envigado,A,1,laboral,14,333,392,R
+envigado,Envigado,A,1,laboral,15,372,507,R
+envigado,Envigado,A,1,laboral,16,540,938,R
+envigado,Envigado,A,1,laboral,17,695,1130,R
+envigado,Envigado,A,1,laboral,18,742,1363,R
+envigado,Envigado,A,1,laboral,19,559,936,R
+envigado,Envigado,A,1,laboral,20,495,756,R
+envigado,Envigado,A,1,laboral,21,386,439,R
+envigado,Envigado,A,1,laboral,22,158,229,R
+envigado,Envigado,A,1,sabado,5,256,117,R
+envigado,Envigado,A,1,sabado,6,445,254,R
+envigado,Envigado,A,1,sabado,7,471,270,R
+envigado,Envigado,A,1,sabado,8,306,259,R
+envigado,Envigado,A,1,sabado,9,270,259,R
+envigado,Envigado,A,1,sabado,10,288,236,R
+envigado,Envigado,A,1,sabado,11,308,383,R
+envigado,Envigado,A,1,sabado,12,382,289,R
+envigado,Envigado,A,1,sabado,13,341,338,R
+envigado,Envigado,A,1,sabado,14,297,364,R
+envigado,Envigado,A,1,sabado,15,320,368,R
+envigado,Envigado,A,1,sabado,16,460,467,R
+envigado,Envigado,A,1,sabado,17,542,621,R
+envigado,Envigado,A,1,sabado,18,492,718,R
+envigado,Envigado,A,1,sabado,19,417,439,R
+envigado,Envigado,A,1,sabado,20,297,430,R
+envigado,Envigado,A,1,sabado,21,238,272,R
+envigado,Envigado,A,1,sabado,22,109,111,R
+envigado,Envigado,A,1,domingo,5,156,82,R
+envigado,Envigado,A,1,domingo,6,302,147,R
+envigado,Envigado,A,1,domingo,7,383,187,R
+envigado,Envigado,A,1,domingo,8,267,160,R
+envigado,Envigado,A,1,domingo,9,167,160,R
+envigado,Envigado,A,1,domingo,10,202,242,R
+envigado,Envigado,A,1,domingo,11,225,242,R
+envigado,Envigado,A,1,domingo,12,283,260,R
+envigado,Envigado,A,1,domingo,13,220,213,R
+envigado,Envigado,A,1,domingo,14,255,220,R
+envigado,Envigado,A,1,domingo,15,231,266,R
+envigado,Envigado,A,1,domingo,16,266,335,R
+envigado,Envigado,A,1,domingo,17,339,505,R
+envigado,Envigado,A,1,domingo,18,323,416,R
+envigado,Envigado,A,1,domingo,19,248,346,R
+envigado,Envigado,A,1,domingo,20,227,259,R
+envigado,Envigado,A,1,domingo,21,149,191,R
+envigado,Envigado,A,1,domingo,22,63,80,R
+itagui,Itagüí,A,1,laboral,5,700,221,R
+itagui,Itagüí,A,1,laboral,6,1349,465,R
+itagui,Itagüí,A,1,laboral,7,1530,495,R
+itagui,Itagüí,A,1,laboral,8,855,334,R
+itagui,Itagüí,A,1,laboral,9,389,265,R
+itagui,Itagüí,A,1,laboral,10,301,302,R
+itagui,Itagüí,A,1,laboral,11,367,323,R
+itagui,Itagüí,A,1,laboral,12,357,342,R
+itagui,Itagüí,A,1,laboral,13,343,322,R
+itagui,Itagüí,A,1,laboral,14,341,397,R
+itagui,Itagüí,A,1,laboral,15,458,605,R
+itagui,Itagüí,A,1,laboral,16,527,1043,R
+itagui,Itagüí,A,1,laboral,17,827,1579,R
+itagui,Itagüí,A,1,laboral,18,665,1480,R
+itagui,Itagüí,A,1,laboral,19,645,1158,R
+itagui,Itagüí,A,1,laboral,20,607,839,R
+itagui,Itagüí,A,1,laboral,21,413,544,R
+itagui,Itagüí,A,1,laboral,22,184,232,R
+itagui,Itagüí,A,1,sabado,5,310,127,R
+itagui,Itagüí,A,1,sabado,6,503,283,R
+itagui,Itagüí,A,1,sabado,7,538,329,R
+itagui,Itagüí,A,1,sabado,8,414,275,R
+itagui,Itagüí,A,1,sabado,9,310,256,R
+itagui,Itagüí,A,1,sabado,10,297,331,R
+itagui,Itagüí,A,1,sabado,11,420,382,R
+itagui,Itagüí,A,1,sabado,12,403,365,R
+itagui,Itagüí,A,1,sabado,13,356,348,R
+itagui,Itagüí,A,1,sabado,14,393,386,R
+itagui,Itagüí,A,1,sabado,15,387,337,R
+itagui,Itagüí,A,1,sabado,16,420,588,R
+itagui,Itagüí,A,1,sabado,17,656,719,R
+itagui,Itagüí,A,1,sabado,18,577,809,R
+itagui,Itagüí,A,1,sabado,19,436,542,R
+itagui,Itagüí,A,1,sabado,20,407,456,R
+itagui,Itagüí,A,1,sabado,21,265,291,R
+itagui,Itagüí,A,1,sabado,22,119,136,R
+itagui,Itagüí,A,1,domingo,5,191,117,R
+itagui,Itagüí,A,1,domingo,6,348,193,R
+itagui,Itagüí,A,1,domingo,7,426,230,R
+itagui,Itagüí,A,1,domingo,8,256,183,R
+itagui,Itagüí,A,1,domingo,9,216,163,R
+itagui,Itagüí,A,1,domingo,10,247,216,R
+itagui,Itagüí,A,1,domingo,11,280,243,R
+itagui,Itagüí,A,1,domingo,12,328,251,R
+itagui,Itagüí,A,1,domingo,13,253,311,R
+itagui,Itagüí,A,1,domingo,14,221,261,R
+itagui,Itagüí,A,1,domingo,15,236,296,R
+itagui,Itagüí,A,1,domingo,16,339,391,R
+itagui,Itagüí,A,1,domingo,17,410,510,R
+itagui,Itagüí,A,1,domingo,18,382,545,R
+itagui,Itagüí,A,1,domingo,19,276,389,R
+itagui,Itagüí,A,1,domingo,20,264,312,R
+itagui,Itagüí,A,1,domingo,21,164,205,R
+itagui,Itagüí,A,1,domingo,22,90,91,R
+sabaneta,Sabaneta,A,1,laboral,5,585,225,R
+sabaneta,Sabaneta,A,1,laboral,6,1345,468,R
+sabaneta,Sabaneta,A,1,laboral,7,1419,490,R
+sabaneta,Sabaneta,A,1,laboral,8,726,365,R
+sabaneta,Sabaneta,A,1,laboral,9,375,263,R
+sabaneta,Sabaneta,A,1,laboral,10,301,303,R
+sabaneta,Sabaneta,A,1,laboral,11,278,354,R
+sabaneta,Sabaneta,A,1,laboral,12,324,328,R
+sabaneta,Sabaneta,A,1,laboral,13,348,298,R
+sabaneta,Sabaneta,A,1,laboral,14,334,418,R
+sabaneta,Sabaneta,A,1,laboral,15,350,568,R
+sabaneta,Sabaneta,A,1,laboral,16,570,857,R
+sabaneta,Sabaneta,A,1,laboral,17,810,1325,R
+sabaneta,Sabaneta,A,1,laboral,18,791,1500,R
+sabaneta,Sabaneta,A,1,laboral,19,604,1054,R
+sabaneta,Sabaneta,A,1,laboral,20,495,755,R
+sabaneta,Sabaneta,A,1,laboral,21,362,588,R
+sabaneta,Sabaneta,A,1,laboral,22,181,213,R
+sabaneta,Sabaneta,A,1,sabado,5,234,154,R
+sabaneta,Sabaneta,A,1,sabado,6,509,249,R
+sabaneta,Sabaneta,A,1,sabado,7,563,314,R
+sabaneta,Sabaneta,A,1,sabado,8,399,287,R
+sabaneta,Sabaneta,A,1,sabado,9,314,264,R
+sabaneta,Sabaneta,A,1,sabado,10,324,380,R
+sabaneta,Sabaneta,A,1,sabado,11,383,357,R
+sabaneta,Sabaneta,A,1,sabado,12,382,400,R
+sabaneta,Sabaneta,A,1,sabado,13,375,352,R
+sabaneta,Sabaneta,A,1,sabado,14,346,345,R
+sabaneta,Sabaneta,A,1,sabado,15,360,407,R
+sabaneta,Sabaneta,A,1,sabado,16,475,594,R
+sabaneta,Sabaneta,A,1,sabado,17,571,736,R
+sabaneta,Sabaneta,A,1,sabado,18,527,773,R
+sabaneta,Sabaneta,A,1,sabado,19,393,537,R
+sabaneta,Sabaneta,A,1,sabado,20,346,404,R
+sabaneta,Sabaneta,A,1,sabado,21,250,358,R
+sabaneta,Sabaneta,A,1,sabado,22,116,133,R
+sabaneta,Sabaneta,A,1,domingo,5,163,99,R
+sabaneta,Sabaneta,A,1,domingo,6,328,189,R
+sabaneta,Sabaneta,A,1,domingo,7,350,221,R
+sabaneta,Sabaneta,A,1,domingo,8,286,201,R
+sabaneta,Sabaneta,A,1,domingo,9,196,227,R
+sabaneta,Sabaneta,A,1,domingo,10,223,190,R
+sabaneta,Sabaneta,A,1,domingo,11,254,240,R
+sabaneta,Sabaneta,A,1,domingo,12,286,257,R
+sabaneta,Sabaneta,A,1,domingo,13,242,243,R
+sabaneta,Sabaneta,A,1,domingo,14,218,225,R
+sabaneta,Sabaneta,A,1,domingo,15,249,269,R
+sabaneta,Sabaneta,A,1,domingo,16,324,349,R
+sabaneta,Sabaneta,A,1,domingo,17,389,510,R
+sabaneta,Sabaneta,A,1,domingo,18,341,486,R
+sabaneta,Sabaneta,A,1,domingo,19,306,389,R
+sabaneta,Sabaneta,A,1,domingo,20,224,299,R
+sabaneta,Sabaneta,A,1,domingo,21,167,210,R
+sabaneta,Sabaneta,A,1,domingo,22,73,87,R
+la_estrella,La Estrella,A,1,laboral,5,899,267,R
+la_estrella,La Estrella,A,1,laboral,6,1524,549,R
+la_estrella,La Estrella,A,1,laboral,7,1680,615,R
+la_estrella,La Estrella,A,1,laboral,8,902,443,R
+la_estrella,La Estrella,A,1,laboral,9,485,352,R
+la_estrella,La Estrella,A,1,laboral,10,382,400,R
+la_estrella,La Estrella,A,1,laboral,11,410,415,R
+la_estrella,La Estrella,A,1,laboral,12,528,435,R
+la_estrella,La Estrella,A,1,laboral,13,454,460,R
+la_estrella,La Estrella,A,1,laboral,14,443,500,R
+la_estrella,La Estrella,A,1,laboral,15,459,692,R
+la_estrella,La Estrella,A,1,laboral,16,670,1349,R
+la_estrella,La Estrella,A,1,laboral,17,965,1955,R
+la_estrella,La Estrella,A,1,laboral,18,971,2015,R
+la_estrella,La Estrella,A,1,laboral,19,675,1601,R
+la_estrella,La Estrella,A,1,laboral,20,653,945,R
+la_estrella,La Estrella,A,1,laboral,21,491,678,R
+la_estrella,La Estrella,A,1,laboral,22,221,299,R
+la_estrella,La Estrella,A,1,sabado,5,319,153,R
+la_estrella,La Estrella,A,1,sabado,6,613,333,R
+la_estrella,La Estrella,A,1,sabado,7,624,389,R
+la_estrella,La Estrella,A,1,sabado,8,498,316,R
+la_estrella,La Estrella,A,1,sabado,9,354,329,R
+la_estrella,La Estrella,A,1,sabado,10,413,448,R
+la_estrella,La Estrella,A,1,sabado,11,446,445,R
+la_estrella,La Estrella,A,1,sabado,12,460,449,R
+la_estrella,La Estrella,A,1,sabado,13,490,522,R
+la_estrella,La Estrella,A,1,sabado,14,447,475,R
+la_estrella,La Estrella,A,1,sabado,15,477,489,R
+la_estrella,La Estrella,A,1,sabado,16,685,630,R
+la_estrella,La Estrella,A,1,sabado,17,720,870,R
+la_estrella,La Estrella,A,1,sabado,18,704,897,R
+la_estrella,La Estrella,A,1,sabado,19,495,765,R
+la_estrella,La Estrella,A,1,sabado,20,400,492,R
+la_estrella,La Estrella,A,1,sabado,21,367,369,R
+la_estrella,La Estrella,A,1,sabado,22,137,176,R
+la_estrella,La Estrella,A,1,domingo,5,184,105,R
+la_estrella,La Estrella,A,1,domingo,6,485,243,R
+la_estrella,La Estrella,A,1,domingo,7,442,291,R
+la_estrella,La Estrella,A,1,domingo,8,352,237,R
+la_estrella,La Estrella,A,1,domingo,9,266,183,R
+la_estrella,La Estrella,A,1,domingo,10,310,254,R
+la_estrella,La Estrella,A,1,domingo,11,344,382,R
+la_estrella,La Estrella,A,1,domingo,12,287,333,R
+la_estrella,La Estrella,A,1,domingo,13,313,286,R
+la_estrella,La Estrella,A,1,domingo,14,309,349,R
+la_estrella,La Estrella,A,1,domingo,15,311,356,R
+la_estrella,La Estrella,A,1,domingo,16,413,541,R
+la_estrella,La Estrella,A,1,domingo,17,519,654,R
+la_estrella,La Estrella,A,1,domingo,18,492,647,R
+la_estrella,La Estrella,A,1,domingo,19,367,497,R
+la_estrella,La Estrella,A,1,domingo,20,265,391,R
+la_estrella,La Estrella,A,1,domingo,21,216,309,R
+la_estrella,La Estrella,A,1,domingo,22,105,125,R
+cisneros,Cisneros,B,1,laboral,5,344,1394,L
+cisneros,Cisneros,B,1,laboral,6,730,2573,L
+cisneros,Cisneros,B,1,laboral,7,806,2754,L
+cisneros,Cisneros,B,1,laboral,8,513,1467,L
+cisneros,Cisneros,B,1,laboral,9,464,689,L
+cisneros,Cisneros,B,1,laboral,10,507,452,L
+cisneros,Cisneros,B,1,laboral,11,671,509,L
+cisneros,Cisneros,B,1,laboral,12,545,531,L
+cisneros,Cisneros,B,1,laboral,13,543,484,L
+cisneros,Cisneros,B,1,laboral,14,568,476,L
+cisneros,Cisneros,B,1,laboral,15,778,593,L
+cisneros,Cisneros,B,1,laboral,16,1262,645,L
+cisneros,Cisneros,B,1,laboral,17,1521,859,L
+cisneros,Cisneros,B,1,laboral,18,1846,895,L
+cisneros,Cisneros,B,1,laboral,19,1568,714,L
+cisneros,Cisneros,B,1,laboral,20,1164,542,L
+cisneros,Cisneros,B,1,laboral,21,1007,328,L
+cisneros,Cisneros,B,1,laboral,22,390,189,L
+cisneros,Cisneros,B,1,sabado,5,148,426,L
+cisneros,Cisneros,B,1,sabado,6,401,741,L
+cisneros,Cisneros,B,1,sabado,7,424,849,L
+cisneros,Cisneros,B,1,sabado,8,396,551,L
+cisneros,Cisneros,B,1,sabado,9,341,466,L
+cisneros,Cisneros,B,1,sabado,10,390,464,L
+cisneros,Cisneros,B,1,sabado,11,528,530,L
+cisneros,Cisneros,B,1,sabado,12,545,559,L
+cisneros,Cisneros,B,1,sabado,13,505,507,L
+cisneros,Cisneros,B,1,sabado,14,496,470,L
+cisneros,Cisneros,B,1,sabado,15,674,423,L
+cisneros,Cisneros,B,1,sabado,16,785,476,L
+cisneros,Cisneros,B,1,sabado,17,1018,688,L
+cisneros,Cisneros,B,1,sabado,18,976,665,L
+cisneros,Cisneros,B,1,sabado,19,812,565,L
+cisneros,Cisneros,B,1,sabado,20,569,473,L
+cisneros,Cisneros,B,1,sabado,21,351,343,L
+cisneros,Cisneros,B,1,sabado,22,185,127,L
+cisneros,Cisneros,B,1,domingo,5,100,228,L
+cisneros,Cisneros,B,1,domingo,6,216,498,L
+cisneros,Cisneros,B,1,domingo,7,299,445,L
+cisneros,Cisneros,B,1,domingo,8,240,326,L
+cisneros,Cisneros,B,1,domingo,9,234,254,L
+cisneros,Cisneros,B,1,domingo,10,250,242,L
+cisneros,Cisneros,B,1,domingo,11,281,258,L
+cisneros,Cisneros,B,1,domingo,12,340,327,L
+cisneros,Cisneros,B,1,domingo,13,281,325,L
+cisneros,Cisneros,B,1,domingo,14,282,269,L
+cisneros,Cisneros,B,1,domingo,15,312,232,L
+cisneros,Cisneros,B,1,domingo,16,486,350,L
+cisneros,Cisneros,B,1,domingo,17,531,347,L
+cisneros,Cisneros,B,1,domingo,18,438,387,L
+cisneros,Cisneros,B,1,domingo,19,438,279,L
+cisneros,Cisneros,B,1,domingo,20,319,222,L
+cisneros,Cisneros,B,1,domingo,21,242,170,L
+cisneros,Cisneros,B,1,domingo,22,109,79,L
+suarez,Suárez,B,1,laboral,5,580,1994,L
+suarez,Suárez,B,1,laboral,6,1072,4415,L
+suarez,Suárez,B,1,laboral,7,1320,3570,L
+suarez,Suárez,B,1,laboral,8,905,2062,L
+suarez,Suárez,B,1,laboral,9,667,1007,L
+suarez,Suárez,B,1,laboral,10,733,850,L
+suarez,Suárez,B,1,laboral,11,798,788,L
+suarez,Suárez,B,1,laboral,12,988,867,L
+suarez,Suárez,B,1,laboral,13,917,904,L
+suarez,Suárez,B,1,laboral,14,804,909,L
+suarez,Suárez,B,1,laboral,15,1293,790,L
+suarez,Suárez,B,1,laboral,16,2103,1097,L
+suarez,Suárez,B,1,laboral,17,3590,1603,L
+suarez,Suárez,B,1,laboral,18,2783,1195,L
+suarez,Suárez,B,1,laboral,19,2262,1181,L
+suarez,Suárez,B,1,laboral,20,2207,832,L
+suarez,Suárez,B,1,laboral,21,1603,668,L
+suarez,Suárez,B,1,laboral,22,612,297,L
+suarez,Suárez,B,1,sabado,5,273,623,L
+suarez,Suárez,B,1,sabado,6,549,1293,L
+suarez,Suárez,B,1,sabado,7,713,1447,L
+suarez,Suárez,B,1,sabado,8,660,1052,L
+suarez,Suárez,B,1,sabado,9,605,656,L
+suarez,Suárez,B,1,sabado,10,741,628,L
+suarez,Suárez,B,1,sabado,11,902,720,L
+suarez,Suárez,B,1,sabado,12,844,802,L
+suarez,Suárez,B,1,sabado,13,930,764,L
+suarez,Suárez,B,1,sabado,14,877,763,L
+suarez,Suárez,B,1,sabado,15,1110,706,L
+suarez,Suárez,B,1,sabado,16,1188,894,L
+suarez,Suárez,B,1,sabado,17,1505,1066,L
+suarez,Suárez,B,1,sabado,18,1618,1043,L
+suarez,Suárez,B,1,sabado,19,1285,950,L
+suarez,Suárez,B,1,sabado,20,923,734,L
+suarez,Suárez,B,1,sabado,21,669,505,L
+suarez,Suárez,B,1,sabado,22,327,221,L
+suarez,Suárez,B,1,domingo,5,166,388,L
+suarez,Suárez,B,1,domingo,6,356,832,L
+suarez,Suárez,B,1,domingo,7,427,792,L
+suarez,Suárez,B,1,domingo,8,331,602,L
+suarez,Suárez,B,1,domingo,9,357,378,L
+suarez,Suárez,B,1,domingo,10,365,464,L
+suarez,Suárez,B,1,domingo,11,511,584,L
+suarez,Suárez,B,1,domingo,12,566,512,L
+suarez,Suárez,B,1,domingo,13,500,415,L
+suarez,Suárez,B,1,domingo,14,554,431,L
+suarez,Suárez,B,1,domingo,15,490,500,L
+suarez,Suárez,B,1,domingo,16,727,577,L
+suarez,Suárez,B,1,domingo,17,908,675,L
+suarez,Suárez,B,1,domingo,18,881,683,L
+suarez,Suárez,B,1,domingo,19,696,518,L
+suarez,Suárez,B,1,domingo,20,567,447,L
+suarez,Suárez,B,1,domingo,21,431,317,L
+suarez,Suárez,B,1,domingo,22,204,151,L
+estadio,Estadio,B,1,laboral,5,55,51,T
+estadio,Estadio,B,1,laboral,6,101,101,T
+estadio,Estadio,B,1,laboral,7,133,152,T
+estadio,Estadio,B,1,laboral,8,182,152,T
+estadio,Estadio,B,1,laboral,9,200,215,T
+estadio,Estadio,B,1,laboral,10,267,261,T
+estadio,Estadio,B,1,laboral,11,297,300,T
+estadio,Estadio,B,1,laboral,12,297,315,T
+estadio,Estadio,B,1,laboral,13,298,293,T
+estadio,Estadio,B,1,laboral,14,300,291,T
+estadio,Estadio,B,1,laboral,15,270,241,T
+estadio,Estadio,B,1,laboral,16,259,261,T
+estadio,Estadio,B,1,laboral,17,337,360,T
+estadio,Estadio,B,1,laboral,18,367,334,T
+estadio,Estadio,B,1,laboral,19,235,248,T
+estadio,Estadio,B,1,laboral,20,153,183,T
+estadio,Estadio,B,1,laboral,21,140,118,T
+estadio,Estadio,B,1,laboral,22,57,57,T
+estadio,Estadio,B,1,sabado,5,177,197,T
+estadio,Estadio,B,1,sabado,6,345,410,T
+estadio,Estadio,B,1,sabado,7,444,499,T
+estadio,Estadio,B,1,sabado,8,555,438,T
+estadio,Estadio,B,1,sabado,9,477,557,T
+estadio,Estadio,B,1,sabado,10,716,712,T
+estadio,Estadio,B,1,sabado,11,707,700,T
+estadio,Estadio,B,1,sabado,12,848,888,T
+estadio,Estadio,B,1,sabado,13,789,980,T
+estadio,Estadio,B,1,sabado,14,624,776,T
+estadio,Estadio,B,1,sabado,15,742,809,T
+estadio,Estadio,B,1,sabado,16,814,852,T
+estadio,Estadio,B,1,sabado,17,828,974,T
+estadio,Estadio,B,1,sabado,18,981,946,T
+estadio,Estadio,B,1,sabado,19,794,663,T
+estadio,Estadio,B,1,sabado,20,623,512,T
+estadio,Estadio,B,1,sabado,21,402,432,T
+estadio,Estadio,B,1,sabado,22,177,197,T
+estadio,Estadio,B,1,domingo,5,214,199,T
+estadio,Estadio,B,1,domingo,6,506,509,T
+estadio,Estadio,B,1,domingo,7,592,570,T
+estadio,Estadio,B,1,domingo,8,635,692,T
+estadio,Estadio,B,1,domingo,9,744,712,T
+estadio,Estadio,B,1,domingo,10,974,914,T
+estadio,Estadio,B,1,domingo,11,1064,1162,T
+estadio,Estadio,B,1,domingo,12,1252,1041,T
+estadio,Estadio,B,1,domingo,13,1095,987,T
+estadio,Estadio,B,1,domingo,14,1013,949,T
+estadio,Estadio,B,1,domingo,15,879,1004,T
+estadio,Estadio,B,1,domingo,16,1305,987,T
+estadio,Estadio,B,1,domingo,17,1330,1121,T
+estadio,Estadio,B,1,domingo,18,1270,1282,T
+estadio,Estadio,B,1,domingo,19,814,882,T
+estadio,Estadio,B,1,domingo,20,677,701,T
+estadio,Estadio,B,1,domingo,21,564,440,T
+estadio,Estadio,B,1,domingo,22,236,218,T
+floresta,Floresta,B,1,laboral,5,1100,364,R
+floresta,Floresta,B,1,laboral,6,1924,646,R
+floresta,Floresta,B,1,laboral,7,2404,710,R
+floresta,Floresta,B,1,laboral,8,1136,537,R
+floresta,Floresta,B,1,laboral,9,531,371,R
+floresta,Floresta,B,1,laboral,10,505,445,R
+floresta,Floresta,B,1,laboral,11,501,488,R
+floresta,Floresta,B,1,laboral,12,498,483,R
+floresta,Floresta,B,1,laboral,13,496,476,R
+floresta,Floresta,B,1,laboral,14,539,619,R
+floresta,Floresta,B,1,laboral,15,643,819,R
+floresta,Floresta,B,1,laboral,16,787,1671,R
+floresta,Floresta,B,1,laboral,17,1109,2007,R
+floresta,Floresta,B,1,laboral,18,1116,2152,R
+floresta,Floresta,B,1,laboral,19,838,1945,R
+floresta,Floresta,B,1,laboral,20,763,1077,R
+floresta,Floresta,B,1,laboral,21,568,673,R
+floresta,Floresta,B,1,laboral,22,285,383,R
+floresta,Floresta,B,1,sabado,5,348,215,R
+floresta,Floresta,B,1,sabado,6,745,373,R
+floresta,Floresta,B,1,sabado,7,775,471,R
+floresta,Floresta,B,1,sabado,8,584,385,R
+floresta,Floresta,B,1,sabado,9,403,402,R
+floresta,Floresta,B,1,sabado,10,468,532,R
+floresta,Floresta,B,1,sabado,11,570,572,R
+floresta,Floresta,B,1,sabado,12,536,504,R
+floresta,Floresta,B,1,sabado,13,526,580,R
+floresta,Floresta,B,1,sabado,14,497,583,R
+floresta,Floresta,B,1,sabado,15,470,584,R
+floresta,Floresta,B,1,sabado,16,643,897,R
+floresta,Floresta,B,1,sabado,17,822,1011,R
+floresta,Floresta,B,1,sabado,18,759,925,R
+floresta,Floresta,B,1,sabado,19,611,816,R
+floresta,Floresta,B,1,sabado,20,512,537,R
+floresta,Floresta,B,1,sabado,21,355,422,R
+floresta,Floresta,B,1,sabado,22,180,214,R
+floresta,Floresta,B,1,domingo,5,221,106,R
+floresta,Floresta,B,1,domingo,6,467,274,R
+floresta,Floresta,B,1,domingo,7,518,311,R
+floresta,Floresta,B,1,domingo,8,394,271,R
+floresta,Floresta,B,1,domingo,9,293,286,R
+floresta,Floresta,B,1,domingo,10,368,323,R
+floresta,Floresta,B,1,domingo,11,411,347,R
+floresta,Floresta,B,1,domingo,12,419,398,R
+floresta,Floresta,B,1,domingo,13,390,390,R
+floresta,Floresta,B,1,domingo,14,365,369,R
+floresta,Floresta,B,1,domingo,15,341,417,R
+floresta,Floresta,B,1,domingo,16,493,623,R
+floresta,Floresta,B,1,domingo,17,516,678,R
+floresta,Floresta,B,1,domingo,18,580,732,R
+floresta,Floresta,B,1,domingo,19,476,619,R
+floresta,Floresta,B,1,domingo,20,361,373,R
+floresta,Floresta,B,1,domingo,21,255,302,R
+floresta,Floresta,B,1,domingo,22,122,127,R
+santa_lucia,Santa Lucía,B,1,laboral,5,980,370,R
+santa_lucia,Santa Lucía,B,1,laboral,6,2084,751,R
+santa_lucia,Santa Lucía,B,1,laboral,7,2518,810,R
+santa_lucia,Santa Lucía,B,1,laboral,8,1119,506,R
+santa_lucia,Santa Lucía,B,1,laboral,9,527,396,R
+santa_lucia,Santa Lucía,B,1,laboral,10,415,465,R
+santa_lucia,Santa Lucía,B,1,laboral,11,584,524,R
+santa_lucia,Santa Lucía,B,1,laboral,12,517,521,R
+santa_lucia,Santa Lucía,B,1,laboral,13,517,466,R
+santa_lucia,Santa Lucía,B,1,laboral,14,483,574,R
+santa_lucia,Santa Lucía,B,1,laboral,15,547,933,R
+santa_lucia,Santa Lucía,B,1,laboral,16,850,1374,R
+santa_lucia,Santa Lucía,B,1,laboral,17,1398,2272,R
+santa_lucia,Santa Lucía,B,1,laboral,18,1278,2228,R
+santa_lucia,Santa Lucía,B,1,laboral,19,874,1760,R
+santa_lucia,Santa Lucía,B,1,laboral,20,833,1297,R
+santa_lucia,Santa Lucía,B,1,laboral,21,548,765,R
+santa_lucia,Santa Lucía,B,1,laboral,22,233,313,R
+santa_lucia,Santa Lucía,B,1,sabado,5,368,224,R
+santa_lucia,Santa Lucía,B,1,sabado,6,827,379,R
+santa_lucia,Santa Lucía,B,1,sabado,7,803,487,R
+santa_lucia,Santa Lucía,B,1,sabado,8,559,441,R
+santa_lucia,Santa Lucía,B,1,sabado,9,388,415,R
+santa_lucia,Santa Lucía,B,1,sabado,10,564,488,R
+santa_lucia,Santa Lucía,B,1,sabado,11,606,567,R
+santa_lucia,Santa Lucía,B,1,sabado,12,638,597,R
+santa_lucia,Santa Lucía,B,1,sabado,13,621,551,R
+santa_lucia,Santa Lucía,B,1,sabado,14,552,526,R
+santa_lucia,Santa Lucía,B,1,sabado,15,534,690,R
+santa_lucia,Santa Lucía,B,1,sabado,16,677,847,R
+santa_lucia,Santa Lucía,B,1,sabado,17,812,1036,R
+santa_lucia,Santa Lucía,B,1,sabado,18,998,1032,R
+santa_lucia,Santa Lucía,B,1,sabado,19,674,909,R
+santa_lucia,Santa Lucía,B,1,sabado,20,510,674,R
+santa_lucia,Santa Lucía,B,1,sabado,21,400,464,R
+santa_lucia,Santa Lucía,B,1,sabado,22,162,195,R
+santa_lucia,Santa Lucía,B,1,domingo,5,278,122,R
+santa_lucia,Santa Lucía,B,1,domingo,6,507,294,R
+santa_lucia,Santa Lucía,B,1,domingo,7,569,344,R
+santa_lucia,Santa Lucía,B,1,domingo,8,442,300,R
+santa_lucia,Santa Lucía,B,1,domingo,9,333,247,R
+santa_lucia,Santa Lucía,B,1,domingo,10,314,343,R
+santa_lucia,Santa Lucía,B,1,domingo,11,367,414,R
+santa_lucia,Santa Lucía,B,1,domingo,12,419,382,R
+santa_lucia,Santa Lucía,B,1,domingo,13,457,400,R
+santa_lucia,Santa Lucía,B,1,domingo,14,313,374,R
+santa_lucia,Santa Lucía,B,1,domingo,15,385,492,R
+santa_lucia,Santa Lucía,B,1,domingo,16,426,690,R
+santa_lucia,Santa Lucía,B,1,domingo,17,553,668,R
+santa_lucia,Santa Lucía,B,1,domingo,18,544,909,R
+santa_lucia,Santa Lucía,B,1,domingo,19,432,536,R
+santa_lucia,Santa Lucía,B,1,domingo,20,351,478,R
+santa_lucia,Santa Lucía,B,1,domingo,21,267,332,R
+santa_lucia,Santa Lucía,B,1,domingo,22,117,127,R
+simon_bolivar,Simón Bolívar,B,1,laboral,5,944,314,R
+simon_bolivar,Simón Bolívar,B,1,laboral,6,1994,579,R
+simon_bolivar,Simón Bolívar,B,1,laboral,7,2000,764,R
+simon_bolivar,Simón Bolívar,B,1,laboral,8,1231,473,R
+simon_bolivar,Simón Bolívar,B,1,laboral,9,526,366,R
+simon_bolivar,Simón Bolívar,B,1,laboral,10,410,385,R
+simon_bolivar,Simón Bolívar,B,1,laboral,11,502,427,R
+simon_bolivar,Simón Bolívar,B,1,laboral,12,508,432,R
+simon_bolivar,Simón Bolívar,B,1,laboral,13,497,504,R
+simon_bolivar,Simón Bolívar,B,1,laboral,14,427,483,R
+simon_bolivar,Simón Bolívar,B,1,laboral,15,490,988,R
+simon_bolivar,Simón Bolívar,B,1,laboral,16,748,1253,R
+simon_bolivar,Simón Bolívar,B,1,laboral,17,987,1763,R
+simon_bolivar,Simón Bolívar,B,1,laboral,18,1100,2041,R
+simon_bolivar,Simón Bolívar,B,1,laboral,19,914,1692,R
+simon_bolivar,Simón Bolívar,B,1,laboral,20,705,1098,R
+simon_bolivar,Simón Bolívar,B,1,laboral,21,593,765,R
+simon_bolivar,Simón Bolívar,B,1,laboral,22,271,278,R
+simon_bolivar,Simón Bolívar,B,1,sabado,5,328,174,R
+simon_bolivar,Simón Bolívar,B,1,sabado,6,639,338,R
+simon_bolivar,Simón Bolívar,B,1,sabado,7,651,437,R
+simon_bolivar,Simón Bolívar,B,1,sabado,8,538,363,R
+simon_bolivar,Simón Bolívar,B,1,sabado,9,339,345,R
+simon_bolivar,Simón Bolívar,B,1,sabado,10,398,415,R
+simon_bolivar,Simón Bolívar,B,1,sabado,11,491,465,R
+simon_bolivar,Simón Bolívar,B,1,sabado,12,507,586,R
+simon_bolivar,Simón Bolívar,B,1,sabado,13,536,525,R
+simon_bolivar,Simón Bolívar,B,1,sabado,14,488,460,R
+simon_bolivar,Simón Bolívar,B,1,sabado,15,528,591,R
+simon_bolivar,Simón Bolívar,B,1,sabado,16,659,738,R
+simon_bolivar,Simón Bolívar,B,1,sabado,17,832,890,R
+simon_bolivar,Simón Bolívar,B,1,sabado,18,730,1054,R
+simon_bolivar,Simón Bolívar,B,1,sabado,19,597,720,R
+simon_bolivar,Simón Bolívar,B,1,sabado,20,498,558,R
+simon_bolivar,Simón Bolívar,B,1,sabado,21,352,402,R
+simon_bolivar,Simón Bolívar,B,1,sabado,22,154,197,R
+simon_bolivar,Simón Bolívar,B,1,domingo,5,240,133,R
+simon_bolivar,Simón Bolívar,B,1,domingo,6,438,266,R
+simon_bolivar,Simón Bolívar,B,1,domingo,7,548,299,R
+simon_bolivar,Simón Bolívar,B,1,domingo,8,355,227,R
+simon_bolivar,Simón Bolívar,B,1,domingo,9,327,246,R
+simon_bolivar,Simón Bolívar,B,1,domingo,10,306,285,R
+simon_bolivar,Simón Bolívar,B,1,domingo,11,297,380,R
+simon_bolivar,Simón Bolívar,B,1,domingo,12,386,412,R
+simon_bolivar,Simón Bolívar,B,1,domingo,13,420,393,R
+simon_bolivar,Simón Bolívar,B,1,domingo,14,374,321,R
+simon_bolivar,Simón Bolívar,B,1,domingo,15,394,308,R
+simon_bolivar,Simón Bolívar,B,1,domingo,16,396,464,R
+simon_bolivar,Simón Bolívar,B,1,domingo,17,565,773,R
+simon_bolivar,Simón Bolívar,B,1,domingo,18,477,651,R
+simon_bolivar,Simón Bolívar,B,1,domingo,19,411,490,R
+simon_bolivar,Simón Bolívar,B,1,domingo,20,299,455,R
+simon_bolivar,Simón Bolívar,B,1,domingo,21,229,307,R
+simon_bolivar,Simón Bolívar,B,1,domingo,22,104,125,R
+san_javier,San Javier,B;J,2,laboral,5,2977,3083,H
+san_javier,San Javier,B;J,2,laboral,6,6146,5690,H
+san_javier,San Javier,B;J,2,laboral,7,7191,6341,H
+san_javier,San Javier,B;J,2,laboral,8,4027,3426,H
+san_javier,San Javier,B;J,2,laboral,9,2397,2531,H
+san_javier,San Javier,B;J,2,laboral,10,2348,2025,H
+san_javier,San Javier,B;J,2,laboral,11,2211,2857,H
+san_javier,San Javier,B;J,2,laboral,12,2727,2561,H
+san_javier,San Javier,B;J,2,laboral,13,2425,2695,H
+san_javier,San Javier,B;J,2,laboral,14,1968,2397,H
+san_javier,San Javier,B;J,2,laboral,15,2452,2900,H
+san_javier,San Javier,B;J,2,laboral,16,4008,4150,H
+san_javier,San Javier,B;J,2,laboral,17,6059,5863,H
+san_javier,San Javier,B;J,2,laboral,18,5789,5885,H
+san_javier,San Javier,B;J,2,laboral,19,4543,4204,H
+san_javier,San Javier,B;J,2,laboral,20,4043,3425,H
+san_javier,San Javier,B;J,2,laboral,21,2184,2302,H
+san_javier,San Javier,B;J,2,laboral,22,1082,1304,H
+san_javier,San Javier,B;J,2,sabado,5,1304,1402,H
+san_javier,San Javier,B;J,2,sabado,6,2987,2570,H
+san_javier,San Javier,B;J,2,sabado,7,2900,3255,H
+san_javier,San Javier,B;J,2,sabado,8,2289,2368,H
+san_javier,San Javier,B;J,2,sabado,9,1722,2240,H
+san_javier,San Javier,B;J,2,sabado,10,2111,1933,H
+san_javier,San Javier,B;J,2,sabado,11,2589,2492,H
+san_javier,San Javier,B;J,2,sabado,12,3057,2595,H
+san_javier,San Javier,B;J,2,sabado,13,2628,2205,H
+san_javier,San Javier,B;J,2,sabado,14,2658,2590,H
+san_javier,San Javier,B;J,2,sabado,15,2621,2437,H
+san_javier,San Javier,B;J,2,sabado,16,3641,3391,H
+san_javier,San Javier,B;J,2,sabado,17,3933,4772,H
+san_javier,San Javier,B;J,2,sabado,18,4601,3694,H
+san_javier,San Javier,B;J,2,sabado,19,2863,2878,H
+san_javier,San Javier,B;J,2,sabado,20,2218,2380,H
+san_javier,San Javier,B;J,2,sabado,21,1524,1816,H
+san_javier,San Javier,B;J,2,sabado,22,914,725,H
+san_javier,San Javier,B;J,2,domingo,5,892,1023,H
+san_javier,San Javier,B;J,2,domingo,6,2052,1960,H
+san_javier,San Javier,B;J,2,domingo,7,2169,2128,H
+san_javier,San Javier,B;J,2,domingo,8,1360,1589,H
+san_javier,San Javier,B;J,2,domingo,9,1240,1279,H
+san_javier,San Javier,B;J,2,domingo,10,1763,1554,H
+san_javier,San Javier,B;J,2,domingo,11,1878,2011,H
+san_javier,San Javier,B;J,2,domingo,12,1810,1905,H
+san_javier,San Javier,B;J,2,domingo,13,1819,1717,H
+san_javier,San Javier,B;J,2,domingo,14,1701,1634,H
+san_javier,San Javier,B;J,2,domingo,15,1886,1807,H
+san_javier,San Javier,B;J,2,domingo,16,2048,2216,H
+san_javier,San Javier,B;J,2,domingo,17,2639,2934,H
+san_javier,San Javier,B;J,2,domingo,18,2774,2830,H
+san_javier,San Javier,B;J,2,domingo,19,2109,2283,H
+san_javier,San Javier,B;J,2,domingo,20,1763,1887,H
+san_javier,San Javier,B;J,2,domingo,21,1087,1298,H
+san_javier,San Javier,B;J,2,domingo,22,558,503,H
+andalucia,Andalucía,K,1,laboral,5,1049,347,R
+andalucia,Andalucía,K,1,laboral,6,2041,605,R
+andalucia,Andalucía,K,1,laboral,7,1988,794,R
+andalucia,Andalucía,K,1,laboral,8,1198,583,R
+andalucia,Andalucía,K,1,laboral,9,558,375,R
+andalucia,Andalucía,K,1,laboral,10,437,439,R
+andalucia,Andalucía,K,1,laboral,11,497,443,R
+andalucia,Andalucía,K,1,laboral,12,591,488,R
+andalucia,Andalucía,K,1,laboral,13,528,578,R
+andalucia,Andalucía,K,1,laboral,14,609,549,R
+andalucia,Andalucía,K,1,laboral,15,600,785,R
+andalucia,Andalucía,K,1,laboral,16,848,1544,R
+andalucia,Andalucía,K,1,laboral,17,1152,2074,R
+andalucia,Andalucía,K,1,laboral,18,1169,2094,R
+andalucia,Andalucía,K,1,laboral,19,971,1763,R
+andalucia,Andalucía,K,1,laboral,20,936,1104,R
+andalucia,Andalucía,K,1,laboral,21,549,754,R
+andalucia,Andalucía,K,1,laboral,22,288,362,R
+andalucia,Andalucía,K,1,sabado,5,415,201,R
+andalucia,Andalucía,K,1,sabado,6,852,361,R
+andalucia,Andalucía,K,1,sabado,7,797,439,R
+andalucia,Andalucía,K,1,sabado,8,638,414,R
+andalucia,Andalucía,K,1,sabado,9,423,445,R
+andalucia,Andalucía,K,1,sabado,10,568,552,R
+andalucia,Andalucía,K,1,sabado,11,519,605,R
+andalucia,Andalucía,K,1,sabado,12,668,615,R
+andalucia,Andalucía,K,1,sabado,13,546,614,R
+andalucia,Andalucía,K,1,sabado,14,621,518,R
+andalucia,Andalucía,K,1,sabado,15,572,607,R
+andalucia,Andalucía,K,1,sabado,16,634,802,R
+andalucia,Andalucía,K,1,sabado,17,808,1000,R
+andalucia,Andalucía,K,1,sabado,18,862,1107,R
+andalucia,Andalucía,K,1,sabado,19,703,847,R
+andalucia,Andalucía,K,1,sabado,20,528,676,R
+andalucia,Andalucía,K,1,sabado,21,388,465,R
+andalucia,Andalucía,K,1,sabado,22,187,203,R
+andalucia,Andalucía,K,1,domingo,5,278,140,R
+andalucia,Andalucía,K,1,domingo,6,533,268,R
+andalucia,Andalucía,K,1,domingo,7,601,334,R
+andalucia,Andalucía,K,1,domingo,8,386,300,R
+andalucia,Andalucía,K,1,domingo,9,321,277,R
+andalucia,Andalucía,K,1,domingo,10,359,387,R
+andalucia,Andalucía,K,1,domingo,11,373,401,R
+andalucia,Andalucía,K,1,domingo,12,418,425,R
+andalucia,Andalucía,K,1,domingo,13,379,373,R
+andalucia,Andalucía,K,1,domingo,14,351,391,R
+andalucia,Andalucía,K,1,domingo,15,345,421,R
+andalucia,Andalucía,K,1,domingo,16,527,565,R
+andalucia,Andalucía,K,1,domingo,17,635,719,R
+andalucia,Andalucía,K,1,domingo,18,586,924,R
+andalucia,Andalucía,K,1,domingo,19,524,566,R
+andalucia,Andalucía,K,1,domingo,20,362,394,R
+andalucia,Andalucía,K,1,domingo,21,341,291,R
+andalucia,Andalucía,K,1,domingo,22,120,137,R
+popular,Popular,K,1,laboral,5,1473,421,R
+popular,Popular,K,1,laboral,6,2981,812,R
+popular,Popular,K,1,laboral,7,2759,941,R
+popular,Popular,K,1,laboral,8,1702,735,R
+popular,Popular,K,1,laboral,9,721,567,R
+popular,Popular,K,1,laboral,10,586,525,R
+popular,Popular,K,1,laboral,11,632,627,R
+popular,Popular,K,1,laboral,12,653,679,R
+popular,Popular,K,1,laboral,13,755,689,R
+popular,Popular,K,1,laboral,14,705,682,R
+popular,Popular,K,1,laboral,15,853,1021,R
+popular,Popular,K,1,laboral,16,1162,1893,R
+popular,Popular,K,1,laboral,17,1634,2906,R
+popular,Popular,K,1,laboral,18,1328,2639,R
+popular,Popular,K,1,laboral,19,1340,2196,R
+popular,Popular,K,1,laboral,20,1072,1759,R
+popular,Popular,K,1,laboral,21,824,974,R
+popular,Popular,K,1,laboral,22,370,469,R
+popular,Popular,K,1,sabado,5,557,239,R
+popular,Popular,K,1,sabado,6,996,588,R
+popular,Popular,K,1,sabado,7,1071,747,R
+popular,Popular,K,1,sabado,8,866,587,R
+popular,Popular,K,1,sabado,9,586,604,R
+popular,Popular,K,1,sabado,10,716,652,R
+popular,Popular,K,1,sabado,11,785,663,R
+popular,Popular,K,1,sabado,12,780,692,R
+popular,Popular,K,1,sabado,13,798,788,R
+popular,Popular,K,1,sabado,14,723,695,R
+popular,Popular,K,1,sabado,15,789,762,R
+popular,Popular,K,1,sabado,16,878,1137,R
+popular,Popular,K,1,sabado,17,1128,1549,R
+popular,Popular,K,1,sabado,18,1076,1280,R
+popular,Popular,K,1,sabado,19,912,1074,R
+popular,Popular,K,1,sabado,20,652,963,R
+popular,Popular,K,1,sabado,21,559,544,R
+popular,Popular,K,1,sabado,22,244,285,R
+popular,Popular,K,1,domingo,5,342,164,R
+popular,Popular,K,1,domingo,6,745,399,R
+popular,Popular,K,1,domingo,7,847,420,R
+popular,Popular,K,1,domingo,8,580,385,R
+popular,Popular,K,1,domingo,9,447,354,R
+popular,Popular,K,1,domingo,10,414,511,R
+popular,Popular,K,1,domingo,11,574,489,R
+popular,Popular,K,1,domingo,12,518,541,R
+popular,Popular,K,1,domingo,13,543,539,R
+popular,Popular,K,1,domingo,14,498,463,R
+popular,Popular,K,1,domingo,15,523,583,R
+popular,Popular,K,1,domingo,16,653,900,R
+popular,Popular,K,1,domingo,17,727,982,R
+popular,Popular,K,1,domingo,18,672,1027,R
+popular,Popular,K,1,domingo,19,640,618,R
+popular,Popular,K,1,domingo,20,497,589,R
+popular,Popular,K,1,domingo,21,391,401,R
+popular,Popular,K,1,domingo,22,162,172,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,5,1069,327,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,6,2168,700,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,7,2195,793,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,8,1106,526,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,9,550,436,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,10,518,436,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,11,447,555,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,12,526,580,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,13,523,549,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,14,597,572,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,15,654,902,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,16,863,1645,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,17,1327,2650,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,18,1122,2435,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,19,1056,1866,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,20,738,1612,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,21,665,877,R
+santo_domingo,Santo Domingo Savio,K;L,2,laboral,22,271,386,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,5,422,211,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,6,740,435,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,7,843,489,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,8,590,400,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,9,492,411,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,10,503,505,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,11,597,588,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,12,681,537,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,13,641,582,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,14,542,570,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,15,537,624,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,16,782,872,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,17,931,1194,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,18,740,1027,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,19,655,761,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,20,558,646,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,21,427,491,R
+santo_domingo,Santo Domingo Savio,K;L,2,sabado,22,197,237,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,5,294,119,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,6,494,293,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,7,593,313,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,8,434,303,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,9,328,262,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,10,369,350,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,11,380,399,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,12,434,443,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,13,428,420,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,14,406,385,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,15,368,391,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,16,481,547,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,17,488,759,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,18,554,774,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,19,446,572,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,20,352,484,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,21,282,313,R
+santo_domingo,Santo Domingo Savio,K;L,2,domingo,22,126,133,R
+arvi,Arví,L,1,laboral,5,69,58,T
+arvi,Arví,L,1,laboral,6,140,131,T
+arvi,Arví,L,1,laboral,7,213,189,T
+arvi,Arví,L,1,laboral,8,198,223,T
+arvi,Arví,L,1,laboral,9,257,244,T
+arvi,Arví,L,1,laboral,10,340,357,T
+arvi,Arví,L,1,laboral,11,386,343,T
+arvi,Arví,L,1,laboral,12,393,370,T
+arvi,Arví,L,1,laboral,13,345,414,T
+arvi,Arví,L,1,laboral,14,337,402,T
+arvi,Arví,L,1,laboral,15,311,353,T
+arvi,Arví,L,1,laboral,16,340,389,T
+arvi,Arví,L,1,laboral,17,422,378,T
+arvi,Arví,L,1,laboral,18,384,355,T
+arvi,Arví,L,1,laboral,19,329,317,T
+arvi,Arví,L,1,laboral,20,244,226,T
+arvi,Arví,L,1,laboral,21,147,145,T
+arvi,Arví,L,1,laboral,22,69,71,T
+arvi,Arví,L,1,sabado,5,235,210,T
+arvi,Arví,L,1,sabado,6,507,491,T
+arvi,Arví,L,1,sabado,7,605,568,T
+arvi,Arví,L,1,sabado,8,684,625,T
+arvi,Arví,L,1,sabado,9,721,704,T
+arvi,Arví,L,1,sabado,10,895,1054,T
+arvi,Arví,L,1,sabado,11,1156,1244,T
+arvi,Arví,L,1,sabado,12,1039,1128,T
+arvi,Arví,L,1,sabado,13,1344,1079,T
+arvi,Arví,L,1,sabado,14,997,939,T
+arvi,Arví,L,1,sabado,15,973,1031,T
+arvi,Arví,L,1,sabado,16,1150,1074,T
+arvi,Arví,L,1,sabado,17,1495,1243,T
+arvi,Arví,L,1,sabado,18,1284,1303,T
+arvi,Arví,L,1,sabado,19,818,891,T
+arvi,Arví,L,1,sabado,20,813,724,T
+arvi,Arví,L,1,sabado,21,499,452,T
+arvi,Arví,L,1,sabado,22,233,245,T
+arvi,Arví,L,1,domingo,5,356,269,T
+arvi,Arví,L,1,domingo,6,652,600,T
+arvi,Arví,L,1,domingo,7,880,854,T
+arvi,Arví,L,1,domingo,8,758,848,T
+arvi,Arví,L,1,domingo,9,960,848,T
+arvi,Arví,L,1,domingo,10,1096,1241,T
+arvi,Arví,L,1,domingo,11,1363,1170,T
+arvi,Arví,L,1,domingo,12,1563,1443,T
+arvi,Arví,L,1,domingo,13,1415,1537,T
+arvi,Arví,L,1,domingo,14,1131,1268,T
+arvi,Arví,L,1,domingo,15,1111,1186,T
+arvi,Arví,L,1,domingo,16,1291,1548,T
+arvi,Arví,L,1,domingo,17,1749,1818,T
+arvi,Arví,L,1,domingo,18,1859,1750,T
+arvi,Arví,L,1,domingo,19,1356,1304,T
+arvi,Arví,L,1,domingo,20,816,1036,T
+arvi,Arví,L,1,domingo,21,752,711,T
+arvi,Arví,L,1,domingo,22,326,309,T
+juan_xxiii,Juan XXIII,J,1,laboral,5,1221,417,R
+juan_xxiii,Juan XXIII,J,1,laboral,6,2264,844,R
+juan_xxiii,Juan XXIII,J,1,laboral,7,2377,810,R
+juan_xxiii,Juan XXIII,J,1,laboral,8,1430,647,R
+juan_xxiii,Juan XXIII,J,1,laboral,9,697,424,R
+juan_xxiii,Juan XXIII,J,1,laboral,10,610,492,R
+juan_xxiii,Juan XXIII,J,1,laboral,11,599,653,R
+juan_xxiii,Juan XXIII,J,1,laboral,12,687,654,R
+juan_xxiii,Juan XXIII,J,1,laboral,13,667,611,R
+juan_xxiii,Juan XXIII,J,1,laboral,14,578,696,R
+juan_xxiii,Juan XXIII,J,1,laboral,15,731,1006,R
+juan_xxiii,Juan XXIII,J,1,laboral,16,1004,1788,R
+juan_xxiii,Juan XXIII,J,1,laboral,17,1508,2686,R
+juan_xxiii,Juan XXIII,J,1,laboral,18,1421,2417,R
+juan_xxiii,Juan XXIII,J,1,laboral,19,1005,1964,R
+juan_xxiii,Juan XXIII,J,1,laboral,20,946,1393,R
+juan_xxiii,Juan XXIII,J,1,laboral,21,789,841,R
+juan_xxiii,Juan XXIII,J,1,laboral,22,313,391,R
+juan_xxiii,Juan XXIII,J,1,sabado,5,514,242,R
+juan_xxiii,Juan XXIII,J,1,sabado,6,938,461,R
+juan_xxiii,Juan XXIII,J,1,sabado,7,891,524,R
+juan_xxiii,Juan XXIII,J,1,sabado,8,616,544,R
+juan_xxiii,Juan XXIII,J,1,sabado,9,525,517,R
+juan_xxiii,Juan XXIII,J,1,sabado,10,656,538,R
+juan_xxiii,Juan XXIII,J,1,sabado,11,660,700,R
+juan_xxiii,Juan XXIII,J,1,sabado,12,786,668,R
+juan_xxiii,Juan XXIII,J,1,sabado,13,698,620,R
+juan_xxiii,Juan XXIII,J,1,sabado,14,646,699,R
+juan_xxiii,Juan XXIII,J,1,sabado,15,577,632,R
+juan_xxiii,Juan XXIII,J,1,sabado,16,874,1087,R
+juan_xxiii,Juan XXIII,J,1,sabado,17,966,1277,R
+juan_xxiii,Juan XXIII,J,1,sabado,18,1023,1249,R
+juan_xxiii,Juan XXIII,J,1,sabado,19,713,1016,R
+juan_xxiii,Juan XXIII,J,1,sabado,20,634,790,R
+juan_xxiii,Juan XXIII,J,1,sabado,21,469,490,R
+juan_xxiii,Juan XXIII,J,1,sabado,22,205,249,R
+juan_xxiii,Juan XXIII,J,1,domingo,5,316,146,R
+juan_xxiii,Juan XXIII,J,1,domingo,6,570,344,R
+juan_xxiii,Juan XXIII,J,1,domingo,7,676,450,R
+juan_xxiii,Juan XXIII,J,1,domingo,8,539,333,R
+juan_xxiii,Juan XXIII,J,1,domingo,9,420,328,R
+juan_xxiii,Juan XXIII,J,1,domingo,10,424,406,R
+juan_xxiii,Juan XXIII,J,1,domingo,11,422,545,R
+juan_xxiii,Juan XXIII,J,1,domingo,12,510,452,R
+juan_xxiii,Juan XXIII,J,1,domingo,13,503,480,R
+juan_xxiii,Juan XXIII,J,1,domingo,14,457,418,R
+juan_xxiii,Juan XXIII,J,1,domingo,15,474,480,R
+juan_xxiii,Juan XXIII,J,1,domingo,16,578,696,R
+juan_xxiii,Juan XXIII,J,1,domingo,17,683,1004,R
+juan_xxiii,Juan XXIII,J,1,domingo,18,630,1015,R
+juan_xxiii,Juan XXIII,J,1,domingo,19,453,706,R
+juan_xxiii,Juan XXIII,J,1,domingo,20,445,506,R
+juan_xxiii,Juan XXIII,J,1,domingo,21,320,443,R
+juan_xxiii,Juan XXIII,J,1,domingo,22,150,157,R
+vallejuelos,Vallejuelos,J,1,laboral,5,830,340,R
+vallejuelos,Vallejuelos,J,1,laboral,6,2144,587,R
+vallejuelos,Vallejuelos,J,1,laboral,7,2132,696,R
+vallejuelos,Vallejuelos,J,1,laboral,8,1364,467,R
+vallejuelos,Vallejuelos,J,1,laboral,9,470,374,R
+vallejuelos,Vallejuelos,J,1,laboral,10,470,378,R
+vallejuelos,Vallejuelos,J,1,laboral,11,464,429,R
+vallejuelos,Vallejuelos,J,1,laboral,12,520,531,R
+vallejuelos,Vallejuelos,J,1,laboral,13,413,479,R
+vallejuelos,Vallejuelos,J,1,laboral,14,509,607,R
+vallejuelos,Vallejuelos,J,1,laboral,15,571,780,R
+vallejuelos,Vallejuelos,J,1,laboral,16,784,1275,R
+vallejuelos,Vallejuelos,J,1,laboral,17,1098,2162,R
+vallejuelos,Vallejuelos,J,1,laboral,18,976,2072,R
+vallejuelos,Vallejuelos,J,1,laboral,19,811,1595,R
+vallejuelos,Vallejuelos,J,1,laboral,20,692,1207,R
+vallejuelos,Vallejuelos,J,1,laboral,21,459,697,R
+vallejuelos,Vallejuelos,J,1,laboral,22,261,321,R
+vallejuelos,Vallejuelos,J,1,sabado,5,344,193,R
+vallejuelos,Vallejuelos,J,1,sabado,6,631,384,R
+vallejuelos,Vallejuelos,J,1,sabado,7,746,446,R
+vallejuelos,Vallejuelos,J,1,sabado,8,596,378,R
+vallejuelos,Vallejuelos,J,1,sabado,9,415,359,R
+vallejuelos,Vallejuelos,J,1,sabado,10,400,513,R
+vallejuelos,Vallejuelos,J,1,sabado,11,455,479,R
+vallejuelos,Vallejuelos,J,1,sabado,12,622,545,R
+vallejuelos,Vallejuelos,J,1,sabado,13,518,525,R
+vallejuelos,Vallejuelos,J,1,sabado,14,454,511,R
+vallejuelos,Vallejuelos,J,1,sabado,15,483,538,R
+vallejuelos,Vallejuelos,J,1,sabado,16,554,795,R
+vallejuelos,Vallejuelos,J,1,sabado,17,855,988,R
+vallejuelos,Vallejuelos,J,1,sabado,18,711,860,R
+vallejuelos,Vallejuelos,J,1,sabado,19,653,756,R
+vallejuelos,Vallejuelos,J,1,sabado,20,483,531,R
+vallejuelos,Vallejuelos,J,1,sabado,21,393,351,R
+vallejuelos,Vallejuelos,J,1,sabado,22,163,182,R
+vallejuelos,Vallejuelos,J,1,domingo,5,251,154,R
+vallejuelos,Vallejuelos,J,1,domingo,6,505,280,R
+vallejuelos,Vallejuelos,J,1,domingo,7,552,311,R
+vallejuelos,Vallejuelos,J,1,domingo,8,318,253,R
+vallejuelos,Vallejuelos,J,1,domingo,9,253,217,R
+vallejuelos,Vallejuelos,J,1,domingo,10,361,274,R
+vallejuelos,Vallejuelos,J,1,domingo,11,328,395,R
+vallejuelos,Vallejuelos,J,1,domingo,12,396,354,R
+vallejuelos,Vallejuelos,J,1,domingo,13,342,343,R
+vallejuelos,Vallejuelos,J,1,domingo,14,333,338,R
+vallejuelos,Vallejuelos,J,1,domingo,15,325,354,R
+vallejuelos,Vallejuelos,J,1,domingo,16,451,487,R
+vallejuelos,Vallejuelos,J,1,domingo,17,534,691,R
+vallejuelos,Vallejuelos,J,1,domingo,18,490,629,R
+vallejuelos,Vallejuelos,J,1,domingo,19,373,493,R
+vallejuelos,Vallejuelos,J,1,domingo,20,340,377,R
+vallejuelos,Vallejuelos,J,1,domingo,21,220,291,R
+vallejuelos,Vallejuelos,J,1,domingo,22,114,123,R
+la_aurora,La Aurora,J,1,laboral,5,759,261,R
+la_aurora,La Aurora,J,1,laboral,6,1434,479,R
+la_aurora,La Aurora,J,1,laboral,7,1460,539,R
+la_aurora,La Aurora,J,1,laboral,8,883,369,R
+la_aurora,La Aurora,J,1,laboral,9,419,281,R
+la_aurora,La Aurora,J,1,laboral,10,313,284,R
+la_aurora,La Aurora,J,1,laboral,11,352,369,R
+la_aurora,La Aurora,J,1,laboral,12,346,464,R
+la_aurora,La Aurora,J,1,laboral,13,332,353,R
+la_aurora,La Aurora,J,1,laboral,14,364,393,R
+la_aurora,La Aurora,J,1,laboral,15,420,567,R
+la_aurora,La Aurora,J,1,laboral,16,617,999,R
+la_aurora,La Aurora,J,1,laboral,17,807,1677,R
+la_aurora,La Aurora,J,1,laboral,18,788,1412,R
+la_aurora,La Aurora,J,1,laboral,19,679,1096,R
+la_aurora,La Aurora,J,1,laboral,20,585,731,R
+la_aurora,La Aurora,J,1,laboral,21,433,523,R
+la_aurora,La Aurora,J,1,laboral,22,183,214,R
+la_aurora,La Aurora,J,1,sabado,5,277,145,R
+la_aurora,La Aurora,J,1,sabado,6,662,281,R
+la_aurora,La Aurora,J,1,sabado,7,559,337,R
+la_aurora,La Aurora,J,1,sabado,8,355,277,R
+la_aurora,La Aurora,J,1,sabado,9,331,304,R
+la_aurora,La Aurora,J,1,sabado,10,318,358,R
+la_aurora,La Aurora,J,1,sabado,11,432,403,R
+la_aurora,La Aurora,J,1,sabado,12,403,444,R
+la_aurora,La Aurora,J,1,sabado,13,375,421,R
+la_aurora,La Aurora,J,1,sabado,14,357,362,R
+la_aurora,La Aurora,J,1,sabado,15,397,378,R
+la_aurora,La Aurora,J,1,sabado,16,463,607,R
+la_aurora,La Aurora,J,1,sabado,17,555,791,R
+la_aurora,La Aurora,J,1,sabado,18,547,806,R
+la_aurora,La Aurora,J,1,sabado,19,400,531,R
+la_aurora,La Aurora,J,1,sabado,20,375,408,R
+la_aurora,La Aurora,J,1,sabado,21,230,316,R
+la_aurora,La Aurora,J,1,sabado,22,117,136,R
+la_aurora,La Aurora,J,1,domingo,5,157,87,R
+la_aurora,La Aurora,J,1,domingo,6,377,203,R
+la_aurora,La Aurora,J,1,domingo,7,344,221,R
+la_aurora,La Aurora,J,1,domingo,8,260,188,R
+la_aurora,La Aurora,J,1,domingo,9,238,180,R
+la_aurora,La Aurora,J,1,domingo,10,270,226,R
+la_aurora,La Aurora,J,1,domingo,11,245,276,R
+la_aurora,La Aurora,J,1,domingo,12,278,309,R
+la_aurora,La Aurora,J,1,domingo,13,274,223,R
+la_aurora,La Aurora,J,1,domingo,14,289,243,R
+la_aurora,La Aurora,J,1,domingo,15,249,295,R
+la_aurora,La Aurora,J,1,domingo,16,314,403,R
+la_aurora,La Aurora,J,1,domingo,17,452,542,R
+la_aurora,La Aurora,J,1,domingo,18,373,522,R
+la_aurora,La Aurora,J,1,domingo,19,325,386,R
+la_aurora,La Aurora,J,1,domingo,20,224,291,R
+la_aurora,La Aurora,J,1,domingo,21,181,207,R
+la_aurora,La Aurora,J,1,domingo,22,73,104,R
